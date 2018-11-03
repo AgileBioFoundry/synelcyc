@@ -1,0 +1,61 @@
+;;==========================================================================
+;; Sample genetic-elements.dat file, created 2/13/2001 by Suzanne Paley.
+;; PathoLogic v. 1.8
+;; 
+;; This file contains a set of records, one for each genetic element 
+;; (chromosome, plasmid, etc.) or contig in the organism.  Each genetic
+;; element can be described either with a single annotation file or as a set
+;; of contigs (but not both).  Contigs are each described with a single
+;; annotation file.  Records are ended by a single line containing only the 
+;; string "//".  Each record contains a set of attribute-value pairs, one
+;; per line, separated by the tab character.  Lines beginning with ; are
+;; comment lines.  Valid attributes are:
+;;
+;; ID -- Required.  Unique identifier for the genetic element.  The identifer
+;;       must be unique with respect to all other identifiers used in the
+;;       PGDB, such as gene and protein identifiers.  The ID should start
+;;       with an alphabetic character, and contain no spaces or special 
+;;       characters. Numbers are allowed, as are dashes and underscores.
+;;       Case insensitive.
+;; NAME -- Required.  Descriptive name for the genetic element
+;; TYPE -- Optional.  One of :CHRSM, :PLASMID, :MT (mitochondrial chromosome),
+;;         :PT (chloroplast chromosome), or :CONTIG.  Defaults to :CHRSM.
+;; CIRCULAR? -- Required (except for contigs).  Is the genetic element 
+;;              circular?  Valid options are Y or N.
+;; CODON-TABLE -- Optional, defaults to the codon table specified in the
+;;                organism.dat file, or to the standard codon-table if not
+;;                supplied.  This should be a number between 1 and 15.
+;; ANNOT-FILE -- Required, unless the CONTIG attribute is supplied.  Filename
+;;               for the annotations file for this genetic element.  The file
+;;               must be in either pathologic format (.pf) or genbank 
+;;               format (.gbk).  If the file is in the orgcyc/version/input/ 
+;;               directory, then only the filename is required, otherwise a
+;;               full pathname must be supplied.
+;; SEQ-FILE -- Optional.  Filename for the sequence file for this
+;;             genetic element.  The file must be in FASTA format
+;;             (.fna or .fsa).  The file must be in the orgcyc/version/input/ 
+;;             directory and only the filename (and not pathname) should be entered in this file.
+;; CONTIG -- Optional (for all types other than :CONTIG.  This field is not
+;;           permitted in records of type :CONTIG.)  ID for a contig that 
+;;           forms part of this genetic element.  A genetic element may have
+;;           multiple CONTIG lines.  This field should not be supplied if the
+;;           ANNOT-FILE attribute is supplied.  Syntax requirements same as ID.
+;;
+;; Note that the "//" is required after the final genetic element, also.
+;;===========================================================================
+
+ID	CHROMOSOME
+NAME	Chromosome
+TYPE	:CHRSM
+CIRCULAR?	Y
+ANNOT-FILE	CP000100.gbk
+SEQ-FILE	CP000100.fna
+//
+ID	PLASMID
+NAME	Plasmid
+TYPE	:PLASMID
+CIRCULAR?	Y
+ANNOT-FILE	CP000101.gbk
+SEQ-FILE	CP000101.fna
+//
+
