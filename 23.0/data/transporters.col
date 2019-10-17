@@ -1,0 +1,71 @@
+# Copyright SRI International 2007-2014
+#
+# Authors:
+#    Ron Caspi
+#    Alex Shearer
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Filename: /homedir/brg/aic/pgdbs/tier2/synelcyc/23.0/data/transporters.col
+#
+# Organism: Synechococcus elongatus PCC 7942
+# Database: NIL
+# Version: 23.0
+# Date and time generated: April 16, 2019, 11:16:41
+#
+UNIQUE-ID	NAME	REACTION-EQUATION	SUBUNIT-COMPOSITION
+CPLX490-3490	thiosulfate ABC transporter	ATP + thiosulfate[extracellular space] + H2O  <-->  ADP + thiosulfate[cytosol] + phosphate	1*SYNPCC7942_1680-MONOMER,1*SYNPCC7942_1686-MONOMER,1*SYNPCC7942_1687-MONOMER,1*SYNPCC7942_1688-MONOMER
+SYNPCC7942_2341-MONOMER	cobalt transport system permease protein	Co2+[periplasm] + H+[periplasm]  <-->  Co2+[cytosol] + H+[cytosol]	1*SYNPCC7942_2341-MONOMER
+CPLX490-89	potassium-transporting ATPase	K+[periplasm] + ATP + H2O  <-->  ADP + K+[cytosol] + phosphate + H+	1*SYNPCC7942_1669-MONOMER,1*SYNPCC7942_1671-MONOMER,1*SYNPCC7942_1668-MONOMER
+SYNPCC7942_2421-MONOMER	high-affinity iron transporter	Fe3+[periplasm]  <-->  Fe3+[cytosol]	1*SYNPCC7942_2421-MONOMER
+CPLX490-3510	F<sub>0</sub>F<sub>1</sub> ATP synthase	ADP + phosphate + 4 H+[out]  <-->  ATP + H2O + 3 H+[in]	10*SYNPCC7942_0332-MONOMER,1*SYNPCC7942_0333-MONOMER,1*SYNPCC7942_0334-MONOMER,1*SYNPCC7942_0331-MONOMER,3*SYNPCC7942_2315-MONOMER,3*SYNPCC7942_0336-MONOMER,1*SYNPCC7942_2316-MONOMER,1*SYNPCC7942_0337-MONOMER,1*SYNPCC7942_0335-MONOMER
+CPLX490-3633	ABC-type transporter for basic amino acids	a basic amino acid[extracellular space] + ATP + H2O  <-->  a basic amino acid[cytosol] + ADP + phosphate	1*SYNPCC7942_0246-MONOMER,1*SYNPCC7942_0247-MONOMER,1*SYNPCC7942_0248-MONOMER,1*SYNPCC7942_0249-MONOMER
+CPLX490-3493	branched-chain amino acid ABC transporter	a branched-chain amino acid[extracellular space] + ATP + H2O  <-->  a branched-chain amino acid[cytosol] + ADP + phosphate	1*SYNPCC7942_2493-MONOMER,1*SYNPCC7942_2495-MONOMER,1*SYNPCC7942_2492-MONOMER,1*SYNPCC7942_2494-MONOMER,1*SYNPCC7942_2496-MONOMER
+SYNPCC7942_0184-MONOMER	putative phosphate permease	phosphate[extracellular space] + H+[extracellular space]  <-->  phosphate[cytosol] + H+[cytosol]	1*SYNPCC7942_0184-MONOMER
+CPLX490-3593	neutural amino acids ABC permease	a neutral amino acid[extracellular space] + ATP + H2O  <-->  a neutral amino acid[cytosol] + ADP + phosphate	1*SYNPCC7942_1893-MONOMER,1*SYNPCC7942_1861-MONOMER,1*SYNPCC7942_1894-MONOMER,1*SYNPCC7942_2177-MONOMER
+SYNPCC7942_0792-MONOMER	putative multidrug efflux MFS transporter	multidrug[cytosol] + H+[cytosol]  <-->  multidrug[extracellular space] + H+[extracellular space]	1*SYNPCC7942_0792-MONOMER
+SYNPCC7942_0358-MONOMER	bicarbonate transport induction protein	hydrogen carbonate[extracellular space]  <-->  hydrogen carbonate[cytosol]	1*SYNPCC7942_0358-MONOMER
+CPLX490-53	pyridine nucleotide transhydrogenase	NADPH + NAD+ + H+[cytosol]  <-->  NADP+ + NADH + H+[periplasm]	1*SYNPCC7942_1612-MONOMER,1*SYNPCC7942_1610-MONOMER
+SYNPCC7942_0023-MONOMER	calcium/proton exchanger	Ca2+[extracellular space] + H+[cytosol]  <-->  Ca2+[cytosol] + H+[extracellular space]	1*SYNPCC7942_0023-MONOMER
+SYNPCC7942_1479-MONOMER	PetG	2 H+[in]  <-->  2 H+[out]	1*SYNPCC7942_1479-MONOMER
+SYNPCC7942_1345-MONOMER	NADH dehydrogenase subunit 6	4 H+[cytosol]  <-->  4 H+[periplasm]	1*SYNPCC7942_1345-MONOMER
+SYNPCC7942_1257-MONOMER	chloride channel-like	chloride[out]  <-->  chloride[in]	1*SYNPCC7942_1257-MONOMER
+CPLX490-3629	oligopeptide ABC type transporter	an oligopeptide[extracellular space] + ATP + H2O  <-->  an oligopeptide[cytosol] + ADP + phosphate	1*SYNPCC7942_0823-MONOMER,1*SYNPCC7942_0822-MONOMER,1*SYNPCC7942_0821-MONOMER
+SYNPCC7942_2317-MONOMER	copper-transporting ATPase	Cu2+[cytosol] + ATP + H2O  <-->  Cu2+[extracellular space] + ADP + phosphate + H+	1*SYNPCC7942_2317-MONOMER
+SYNPCC7942_0242-MONOMER	K+-dependent Na+/Ca+ exchanger related-protein	Na+[out] + H+[in]  <-->  Na+[in] + H+[out]	1*SYNPCC7942_0242-MONOMER
+SYNPCC7942_1259-MONOMER	arsenite-activated ATPase (arsA)	arsenite[cytosol] + ATP + H2O  <-->  arsenite[periplasm] + ADP + phosphate + H+	1*SYNPCC7942_1259-MONOMER
+SYNPCC7942_0357-MONOMER	inorganic carbon transporter	Na+[cytosol] + hydrogen carbonate[extracellular space]  <-->  Na+[extracellular space] + hydrogen carbonate[cytosol]	1*SYNPCC7942_0357-MONOMER
+SYNPCC7942_1380-MONOMER	SulP domain protein	sulfate[extracellular space] + ATP + H2O  <-->  sulfate[cytosol] + ADP + phosphate + H+	1*SYNPCC7942_1380-MONOMER
+SYNPCC7942_0367-MONOMER	Na+-dependent transporter-like	Na+[out] + H+[out]  <-->  Na+[in] + H+[in]	1*SYNPCC7942_0367-MONOMER
+CPLX490-3519	phosphate transport system	ATP + phosphate[extracellular space] + H2O  <-->  ADP + 2 phosphate[cytosol] + H+	1*SYNPCC7942_2441-MONOMER,1*SYNPCC7942_2443-MONOMER,1*SYNPCC7942_2442-MONOMER
+CPLX490-3494	sulfonate ABC transporter	ATP + a sulfonate[extracellular space] + H2O  <-->  ADP + a sulfonate[cytosol] + phosphate	1*SYNPCC7942_B2630-MONOMER,1*SYNPCC7942_B2629-MONOMER,1*SYNPCC7942_B2628-MONOMER
+SYNPCC7942_0197-MONOMER	folate/biopterin transporter	7,8-dihydrobiopterin[extracellular space]  <-->  7,8-dihydrobiopterin[cytosol]	1*SYNPCC7942_0197-MONOMER
+SYNPCC7942_0683-MONOMER	potassium channel protein	K+[extracellular space]  <-->  K+[cytosol]	1*SYNPCC7942_0683-MONOMER
+CPLX490-3491	nitrate transport system	ATP + nitrate[extracellular space] + H2O  <-->  ADP + nitrate[cytosol] + phosphate	1*SYNPCC7942_1238-MONOMER,1*SYNPCC7942_1237-MONOMER,1*SYNPCC7942_1236-MONOMER,1*SYNPCC7942_1239-MONOMER
+SYNPCC7942_0471-MONOMER	ABC-type sugar transport system permease component	a sugar[extracellular space]  <-->  a sugar[cytosol]	1*SYNPCC7942_0471-MONOMER
+SYNPCC7942_0841-MONOMER	putative flavoprotein involved in K+ transport	K+[cytosol]  <-->  K+[periplasm]	1*SYNPCC7942_0841-MONOMER
+SYNPCC7942_2085-MONOMER	probable anion transporting ATPase	ATP + an anion[extracellular space] + H2O  <-->  ADP + an anion[cytosol] + phosphate	1*SYNPCC7942_2085-MONOMER
+SYNPCC7942_1989-MONOMER	Cation efflux family protein	a cation[in]  <-->  a cation[out]	1*SYNPCC7942_1989-MONOMER
+SYNPCC7942_1729-MONOMER	potassium-transporting ATPase D chain	ATP + K+[extracellular space] + H2O  <-->  ADP + K+[cytosol] + phosphate	1*SYNPCC7942_1729-MONOMER
+CPLX490-3625	ABC type manganese transport system	Mn2+[extracellular space] + ATP  <-->  Mn2+[cytosol] + ADP + phosphate	1*SYNPCC7942_1317-MONOMER,1*SYNPCC7942_1318-MONOMER,1*SYNPCC7942_1316-MONOMER
+SYNPCC7942_2317-MONOMER	copper-transporting ATPase	Cu2+[out] + ATP + H2O  <-->  Cu2+[in] + ADP + phosphate + H+	1*SYNPCC7942_2317-MONOMER
+CPLX490-3531	molybdate transport system	ATP + molybdate[extracellular space] + H2O  <-->  ADP + molybdate[cytosol] + phosphate	1*SYNPCC7942_1530-MONOMER,1*SYNPCC7942_1532-MONOMER,1*SYNPCC7942_1531-MONOMER
+SYNPCC7942_0366-MONOMER	putative sulfate transporter	sulfate[extracellular space]  <-->  sulfate[cytosol]	1*SYNPCC7942_0366-MONOMER
+SYNPCC7942_0445-MONOMER	ABC-type dipeptide/oligopeptide/nickel transport systems permease components-like	ATP + a dipeptide[extracellular space] + H2O  <-->  ADP + a dipeptide[cytosol] + phosphate	1*SYNPCC7942_0445-MONOMER
+		4 H+[in]  <-->  4 H+[out]	
+SYNPCC7942_1727-MONOMER	BioY protein	biotin[extracellular space]  <-->  biotin[cytosol]	1*SYNPCC7942_1727-MONOMER
+SYNPCC7942_1082-MONOMER	Ca<sup>2+</sup>-transporting ATPase	Ca2+[periplasm] + ATP + H2O  <-->  Ca2+[cytosol] + ADP + phosphate	1*SYNPCC7942_1082-MONOMER
+CPLX490-3529	Fe (III) ABC transporter	Fe3+[extracellular space] + ATP + H2O  <-->  Fe3+[cytosol] + ADP + phosphate	1*SYNPCC7942_1406-MONOMER,1*SYNPCC7942_1407-MONOMER,1*SYNPCC7942_1408-MONOMER,1*SYNPCC7942_1409-MONOMER
+CPLX490-3587	preprotein translocase complex	a polypeptide[cytosol]  <-->  a polypeptide[periplasm]	1*SYNPCC7942_0468-MONOMER,1*SYNPCC7942_2214-MONOMER,1*SYNPCC7942_0636-MONOMER,1*SYNPCC7942_0289-MONOMER,1*SYNPCC7942_0142-MONOMER,1*SYNPCC7942_0141-MONOMER
+CPLX490-3492	ATP-binding bicarbonate transporter	hydrogen carbonate[extracellular space] + ATP + H2O  <-->  hydrogen carbonate[cytosol] + ADP + phosphate	1*SYNPCC7942_1488-MONOMER,1*SYNPCC7942_1489-MONOMER,1*SYNPCC7942_1490-MONOMER,1*SYNPCC7942_1491-MONOMER
+CPLX490-3626	glycolipid ABC exporter	ATP + a glycolipid[cytosol] + H2O  <-->  ADP + a glycolipid[periplasm] + phosphate	1*SYNPCC7942_1224-MONOMER,1*SYNPCC7942_1223-MONOMER
+SYNPCC7942_0442-MONOMER	ammonium transporter	ammonium[extracellular space] + H+[extracellular space]  <-->  ammonium[cytosol] + H+[cytosol]	1*SYNPCC7942_0442-MONOMER
+SYNPCC7942_0390-MONOMER	Chromate transporter	chromate[extracellular space]  <-->  chromate[cytosol]	1*SYNPCC7942_0390-MONOMER
+CPLX490-3517	cyanate ABC transporter	ATP + cyanate[extracellular space] + H2O  <-->  ADP + cyanate[cytosol] + phosphate	1*SYNPCC7942_2107-MONOMER,1*SYNPCC7942_2106-MONOMER,1*SYNPCC7942_2105-MONOMER
+SYNPCC7942_1269-MONOMER	magnesium transporter	Mg2+[extracellular space]  <-->  Mg2+[cytosol]	1*SYNPCC7942_1269-MONOMER
+SYNPCC7942_0442-MONOMER	ammonium transporter	ammonium[extracellular space]  <-->  ammonium[cytosol]	1*SYNPCC7942_0442-MONOMER
+SYNPCC7942_0197-MONOMER	folate/biopterin transporter	folate[extracellular space]  <-->  folate[cytosol]	1*SYNPCC7942_0197-MONOMER
+SYNPCC7942_2444-MONOMER	Phosphate transport system substrate-binding protein	phosphate[cytosol]  <-->  phosphate[periplasm]	1*SYNPCC7942_2444-MONOMER
+SYNPCC7942_2238-MONOMER	glucose transport protein	beta-D-glucopyranose[extracellular space]  <-->  beta-D-glucopyranose[cytosol]	1*SYNPCC7942_2238-MONOMER

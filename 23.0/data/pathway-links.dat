@@ -1,0 +1,237 @@
+#
+#  synelcyc 23.0 Pathways link table generated on Tue Apr 16, 2019
+#
+PWY-5097	L-lysine biosynthesis VI	
+PWY-7227	adenosine deoxyribonucleotides <i>de novo</i> biosynthesis	
+PWY-6614	tetrahydrofolate biosynthesis	folic acid biosynthesis	folate biosynthesis	THF biosynthesis
+PPGPPMET-PWY	ppGpp biosynthesis	guanosine 3'-diphosphate 5'-diphosphate biosynthesis
+PWY-7221	guanosine ribonucleotides <i>de novo</i> biosynthesis	
+PWYQT-4427	sulfolipid biosynthesis	
+PWY490-12	circadian clock oscillator KaiABC	
+HISTSYN-PWY	L-histidine biosynthesis	
+PWY-6613	tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate	folic acid salvage	folate salvage	THF salvage
+HSERMETANA-PWY	L-methionine biosynthesis III	L-methionine biosynthesis by sulfhydrylation
+ARGSYNBSUB-PWY	L-arginine biosynthesis II (acetyl cycle)	
+BIOTIN-BIOSYNTHESIS-PWY	biotin biosynthesis I	vitamin H biosynthesis
+PWY0-501	lipoate biosynthesis and incorporation I	
+GLUTORN-PWY	L-ornithine biosynthesis	
+PWY0-662	PRPP biosynthesis I	5-phosphoribosyl 1-pyrophosphate biosynthesis
+PWY-7219	adenosine ribonucleotides <i>de novo</i> biosynthesis	
+PWY-5918	superpathay of heme biosynthesis from glutamate	
+PWY-7226	guanosine deoxyribonucleotides <i>de novo</i> biosynthesis I	
+PWY-6121	5-aminoimidazole ribonucleotide biosynthesis I	
+P641-PWY	phenylmercury acetate degradation	
+PWY-7224	purine deoxyribonucleosides salvage	
+PWY-6122	5-aminoimidazole ribonucleotide biosynthesis II	
+LCYSDEG-PWY	L-cysteine degradation II	L-cysteine catabolism	L-cysteine degradation
+PWY-6292	superpathway of L-cysteine biosynthesis (mammalian)	
+PWY-6277	superpathway of 5-aminoimidazole ribonucleotide biosynthesis	
+PWY490-4	L-asparagine biosynthesis III (tRNA-dependent)	L-asparaginyl-tRNA<sup>asn</sup> biosynthesis via transamidation
+PWY-6415	L-ascorbate biosynthesis V	L-ascorbic acid biosynthesis V	vitamin c biosynthesis
+PWY0-1507	biotin biosynthesis from 8-amino-7-oxononanoate I	biotin biosynthesis from 7-keto-8-aminopelargonate
+PWY-6892	thiazole biosynthesis I (E. coli)	(<i>R,Z</i>)-2-(2-carboxy-4-methylthiazol-5(2<i>H</i>)-ylidene)ethyl phosphate biosynthesis
+PWY-6123	inosine-5'-phosphate biosynthesis I	IMP biosynthesis I
+RIBOSYN2-PWY	flavin biosynthesis I (bacteria and plants)	riboflavin, FMN and FAD biosynthesis	vitamin B<sub>2</sub> biosynthesis
+PWY-6823	molybdenum cofactor biosynthesis	moco biosynthesis	molybdopterin biosynthesis
+PWY66-21	ethanol degradation II	
+PWY-7346	UDP-&alpha;-D-glucuronate biosynthesis (from UDP-glucose)	UDP-&alpha;-D-glucuronate biosynthesis	UDP-glucuronic acid biosynthesis (from UDP-glucose)	UDP-GlcA biosynthesis
+FASYN-ELONG-PWY	fatty acid elongation -- saturated	
+PWY-5382	hydrogen oxidation II (aerobic, NAD)	
+PWY0-1299	arginine dependent acid resistance	
+GLYCOGENSYNTH-PWY	glycogen biosynthesis I (from ADP-D-Glucose)	
+PWY-6758	hydrogen production II	
+PWY-5944	zeaxanthin biosynthesis	
+FAO-PWY	fatty acid &beta;-oxidation I	
+NADPHOS-DEPHOS-PWY-1	NAD phosphorylation and transhydrogenation	
+PWY-5941	glycogen degradation II	glycogenolysis II
+PWY-5084	2-oxoglutarate decarboxylation to succinyl-CoA	2-oxoglutarate dehydrogenase complex	2-ketoglutarate dehydrogenase complex
+PWY3O-4106	NAD salvage pathway III	nicotinamide riboside salvage pathway	nicotinamide adenine dinucleotide salvage
+PWY-5943	&beta;-carotene biosynthesis	
+PWY-5946	&delta;-carotene biosynthesis	
+PWY-2301	<i>myo</i>-inositol biosynthesis	
+PWY-5966	fatty acid biosynthesis initiation II	
+PWY-5805	nonaprenyl diphosphate biosynthesis I	solanesyl diphosphate biosynthesis	solanesyl pyrophosphate biosynthesis
+PWY0-1479	tRNA processing	
+PWY-5965	fatty acid biosynthesis initiation III	
+PWY-5120	geranylgeranyl diphosphate biosynthesis	GGPP biosynthesis
+TRNA-CHARGING-PWY	tRNA charging	
+FASYN-INITIAL-PWY	superpathway of fatty acid biosynthesis initiation (E. coli)	
+PWY-6475	<i>trans</i>-lycopene biosynthesis II (plants)	
+PWY-5453	methylglyoxal degradation III	
+PWY-5785	di-<i>trans</i>,poly-<i>cis</i>-undecaprenyl phosphate biosynthesis	
+PWY-5964	guanylyl molybdenum cofactor biosynthesis	MGD biosynthesis	molybdopterin guanine dinucleotide biosynthesis
+PWY-5122	geranyl diphosphate biosynthesis	GPP biosynthesis
+PWY-5350	thiosulfate disproportionation III (rhodanese)	
+PWY-7709	(3<i>R</i>)-linalool biosynthesis	(<i>R</i>)-linalool biosynthesis
+PEPTIDOGLYCANSYN-PWY	peptidoglycan biosynthesis I (<I>meso</I>-diaminopimelate containing)	
+GLUT-REDOX-PWY	glutathione-glutaredoxin redox reactions	
+ARO-PWY	chorismate biosynthesis I	aromatic amino acid biosynthesis	shikimate pathway
+PWY-4081	glutathione-peroxide redox reactions	
+PWY490-11	NblS sensory histidine kinase	
+PWY-5663	tetrahydrobiopterin biosynthesis I	
+PWY-6147	6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	
+PWY-6983	tetrahydrobiopterin biosynthesis III	
+PWY490-13	SasA sensory histidine kinase	
+HOMOSERSYN-PWY	L-homoserine biosynthesis	
+PWY-6519	8-amino-7-oxononanoate biosynthesis I	7-keto-8-aminopelargonate biosynthesis I
+HOMOSER-THRESYN-PWY	L-threonine biosynthesis	
+METHIONINE-DEG1-PWY	L-methionine degradation I (to L-homocysteine)	
+HOMOSER-METSYN-PWY	L-methionine biosynthesis I	L-methionine biosynthesis from L-homoserine	L-methionine biosynthesis by transsulfuration
+PWY-5143	long-chain fatty acid activation	long-chain acyl-CoA synthetase pathway
+PWY490-14	SphS sensory histidine kinase	
+ETOH-ACETYLCOA-ANA-PWY	ethanol degradation I	acetyl-CoA biosynthesis (from alcohol)
+PWY0-1313	acetate conversion to acetyl-CoA	
+PWY-5971	palmitate biosynthesis II (bacteria and plants)	palmitic acid biosynthesis	de novo lipogenesis
+PROSYN-PWY	L-proline biosynthesis I	
+PWY-7250	[2Fe-2S] iron-sulfur cluster biosynthesis	[Fe-S] cluster biosynthesis	[2Fe-2S] cluster biosynthesis
+PYRUVDEHYD-PWY	pyruvate decarboxylation to acetyl CoA	pyruvate dehydrogenase complex	acetyl-CoA biosynthesis I (pyruvate dehydrogenase complex)
+PWY-7686	L-malate degradation II	(<i>S</i>)--malate degradation I
+PWY-5667	CDP-diacylglycerol biosynthesis I	CDP-diacylglycerol biosynthesis
+PWY-5917	phycocyanobilin biosynthesis	
+THIOREDOX-PWY	thioredoxin pathway	
+PYRIDNUCSYN-PWY	NAD biosynthesis I (from aspartate)	nicotinamide adenine dinucleotide biosynthesis
+CYANCAT-PWY	cyanate degradation	cyanate catabolism
+PWY-6268	adenosylcobalamin salvage from cobalamin	vitamin B<sub>12</sub> biosynthesis
+PWY-101	photosynthesis light reactions	
+PYRIDNUCSAL-PWY	NAD salvage pathway I	pyridine nucleotide cycling	PNC VI pathway	nicotinamide adenine dinucleotide salvage
+PWYQT-4429	CO<sub>2</sub> fixation into oxaloacetate (anaplerotic)	
+PWY-5194	siroheme biosynthesis	
+PWY-6785	hydrogen production VIII	photosynthetic hydrogen generation
+PWY-7761	NAD salvage pathway II	PNC IV cycle
+GLYCEROLMETAB-PWY	glycerol degradation V	
+PWY-5340	sulfate activation for sulfonation	sulfation pathway
+PWY-5086	chlorophyll <i>a</i> biosynthesis I	
+PWY0-1264	biotin-carboxyl carrier protein assembly	BCCP assembly
+LEUSYN-PWY	L-leucine biosynthesis	
+PWY-6543	4-aminobenzoate biosynthesis	pABA biosynthesis	plastidial PABA biosynthesis	PABA biosynthesis in plastids	<i>p</i>-aminobenzoate biosynthesis
+VALSYN-PWY	L-valine biosynthesis	
+PWY-5064	chlorophyll <i>a</i> biosynthesis II	
+PYRIDOXSYN-PWY	pyridoxal 5'-phosphate biosynthesis I	vitamin B<sub>6</sub> biosynthesis
+PWY-7376	cob(II)yrinate <i>a,c</i>-diamide biosynthesis II (late cobalt incorporation)	
+PWY-6698	oxalate degradation V	
+SERSYN-PWY	L-serine biosynthesis	
+ENTNER-DOUDOROFF-PWY	Entner-Doudoroff pathway I	ED pathway
+HEME-BIOSYNTHESIS-II	heme biosynthesis I (aerobic)	
+PWY-5484	glycolysis II (from fructose 6-phosphate)	
+PWY0-1415	superpathway of heme biosynthesis from uroporphyrinogen-III	
+MANNCAT-PWY	D-mannose degradation	mannose degradation
+CHLOROPHYLL-SYN	chlorophyllide <i>a</i> biosynthesis I (aerobic, light-dependent)	light-dependent aerobic chlorophyllide <i>a</i> biosynthesis I
+GLYCOLYSIS	glycolysis I (from glucose 6-phosphate)	Embden-Meyerhof pathway	Embden-Meyerhof-Parnas pathway	EMP pathway	glycolysis (plastidic)
+PWY-7159	chlorophyllide <i>a</i> biosynthesis III (aerobic, light independent)	light-independent aerobic chlorophyllide <i>a</i> biosynthesis
+SUCSYN-PWY	sucrose biosynthesis I (from photosynthesis)	sucrose biosynthesis I (from Calvin cycle intermediates)	sucrose biosynthesis I
+PWY-5509	adenosylcobalamin biosynthesis from cobyrinate <i>a,c</i>-diamide I	
+ANAGLYCOLYSIS-PWY	glycolysis III (from glucose)	anaerobic glycolysis	Embden-Meyerhof-Parnas pathway	EMP pathway	glycolysis III (glucokinase)
+PWY-7411	superpathway of phosphatidate biosynthesis (yeast)	
+GLUCONEO-PWY	gluconeogenesis I	
+PWY-4381	fatty acid biosynthesis initiation I	de novo fatty acid biosynthesis, initial reactions
+TRPSYN-PWY	L-tryptophan biosynthesis	
+PWY-6612	superpathway of tetrahydrofolate biosynthesis	folic acid biosynthesis	folate biosynthesis	THF biosynthesis
+PWY-6978	plastoquinol-9 biosynthesis II	plastoquinone biosynthesis II	plastoquinone-9 biosynthesis II	plastoquinol biosynthesis II
+PHOTOALL-PWY	oxygenic photosynthesis	C3 photosynthesis
+FOLSYN-PWY	superpathway of tetrahydrofolate biosynthesis and salvage	
+PWY-5063	phytyl diphosphate biosynthesis	phytyl pyrophosphate biosynthesis	phytyl-PP biosynthesis
+PWY-7032	alkane biosynthesis I	
+PWY-66	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	GDP-L-fucose biosynthesis I (<i>de novo</i> synthesis)
+P381-PWY	adenosylcobalamin biosynthesis II (late cobalt incorporation)	aerobic adenosylcobalamin biosynthesis	vitamin B12 biosynthesis
+PWY-5739	GDP-D-perosamine biosynthesis	GDP-&alpha;-D-perosamine biosynthesis
+PWY-6622	heptadecane biosynthesis	alkane biosynthesis
+PWY-181	photorespiration	C2 photorespiratory carbon oxidation cycle	PCO cycle
+DETOX1-PWY	superoxide radicals degradation	removal of superoxide radicals
+PWY-2161	folate polyglutamylation	
+PWY-5989	stearate biosynthesis II (bacteria and plants)	stearic acid biosynthesis
+PWY-2201	folate transformations I	
+PWY-1722	formate assimilation into 5,10-methylenetetrahydrofolate	
+PWY-6387	UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis I (<i>meso</i>-diaminopimelate containing)	
+PWY-6164	3-dehydroquinate biosynthesis I	
+PWY-6163	chorismate biosynthesis from 3-dehydroquinate	
+PWY-5188	tetrapyrrole biosynthesis I (from glutamate)	
+PWY-7194	pyrimidine nucleobases salvage II	cytosine salvage
+PWY0-1261	anhydromuropeptides recycling	1,6-anhydro-<i>N</i>-acetylmuramic acid recycling	cell wall recycling
+UDPNAGSYN-PWY	UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis I	UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis
+PWY-5659	GDP-mannose biosynthesis	
+PWY-5027	phylloquinol biosynthesis	vitamin K<sub>1</sub> biosynthesis	phylloquinone biosynthesis
+PWY-5863	superpathway of phylloquinol biosynthesis	superpathway of phylloquinone biosynthesis
+THISYN-PWY	superpathway of thiamin diphosphate biosynthesis I	superpathway of thiamin diphosphate biosynthesis (E .coli)	superpathway of vitamin B<sub>1</sub> biosynthesis (E .coli)
+PWY-5686	UMP biosynthesis	uridine-5'-phosphate biosynthesis	<i>de novo</i> biosynthesis of uridine-5'-phosphate	<i>de novo</i> biosynthesis of uridine-5'-monophosphate
+PWY-7343	UDP-glucose biosynthesis	UDP-D-glucose biosynthesis	UDP-&alpha;-D-glucose biosynthesis
+PWY-5123	<i>trans, trans</i>-farnesyl diphosphate biosynthesis	FPP biosynthesis	<i>trans, trans</i>-farnesyl diphosphate biosynthesis
+SULFATE-CYS-PWY	superpathway of sulfate assimilation and cysteine biosynthesis	
+PWY-7560	methylerythritol phosphate pathway II	nonmevalonate isopentenyl diphosphate biosynthesis	methylerythritol phosphate degradation	MEP degradation	deoxyxylulose phosphate pathway	DOXP pathway	Rohmer pathway	isopentenyl diphosphate biosynthesis -- mevalonate-independent	nonmevalonate isoprenoid pathway	MEP pathway
+PWY-7180	2'-deoxy-&alpha;-D-ribose 1-phosphate degradation	
+CYSTSYN-PWY	L-cysteine biosynthesis I	
+NONOXIPENT-PWY	pentose phosphate pathway (non-oxidative branch)	
+PWY-5344	L-homocysteine biosynthesis	
+PWY-5723	Rubisco shunt	
+PWY-6700	queuosine biosynthesis	
+SAM-PWY	S-adenosyl-L-methionine biosynthesis	S-adenosylmethionine biosynthesis
+PWY-1269	CMP-3-deoxy-D-<I>manno</I>-octulosonate biosynthesis	CMP-Kdo biosynthesis I
+PWY-5837	1,4-dihydroxy-2-naphthoate biosynthesis	
+PWY-7208	superpathway of pyrimidine nucleobases salvage	
+CALVIN-PWY	Calvin-Benson-Bassham cycle	photosynthetic dark reactions	photosynthetic CO<SUB>2</SUB> fixation	reductive pentose phosphate pathway	Calvin cycle	photosynthesis - dark reaction	carbon fixation	Calvin-Benson cycle
+PWY-4361	<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation	
+PWY-7183	pyrimidine nucleobases salvage I	uracil salvage
+PWY-6959	L-ascorbate degradation V	
+PWY-7229	superpathway of adenosine nucleotides <i>de novo</i> biosynthesis I	
+PWY-6756	<i>S</i>-methyl-5'-thioadenosine degradation II	methylthioadenosine degradation II
+PWY-841	superpathway of purine nucleotides <i>de novo</i> biosynthesis I	purine biosynthesis 2
+GLNSYN-PWY	L-glutamine biosynthesis I	L-glutamine - L-glutamate pathway
+NAGLIPASYN-PWY	lipid IV<sub>A</sub> biosynthesis	lipid-A-precursor biosynthesis
+PWY-5508	adenosylcobalamin biosynthesis from cobyrinate <i>a,c</i>-diamide II	
+DENOVOPURINE2-PWY	superpathway of purine nucleotides <i>de novo</i> biosynthesis II	
+PWY-4341	L-glutamate biosynthesis V	
+PWY-5512	UDP-<i>N</i>-acetyl-D-galactosamine biosynthesis I	
+PWY490-3	nitrate reduction VI (assimilatory)	nitrate assimilation
+PWY-7228	superpathway of guanosine nucleotides <i>de novo</i> biosynthesis I	
+PWY-6964	ammonia assimilation cycle II	GS/GOGAT pathway
+PWY-7335	UDP-<i>N</i>-acetyl-&alpha;-D-mannosaminouronate biosynthesis	
+OXIDATIVEPENT-PWY	pentose phosphate pathway (oxidative branch)	
+GLYOXDEG-PWY	glycolate and glyoxylate degradation II	glyoxylate degradation
+THRESYN-PWY	superpathway of L-threonine biosynthesis	
+GLYCOLYSIS-E-D	superpathway of glycolysis and Entner-Doudoroff	
+PWY-5921	glutaminyl-tRNA<sup>gln</sup> biosynthesis via transamidation	
+OANTIGEN-PWY	<i>O</i>-antigen building blocks biosynthesis (<i>E. coli</i>)	
+PWY-3001	superpathway of L-isoleucine biosynthesis I	
+GLUTAMINDEG-PWY	L-glutamine degradation I	
+GLUAMCAT-PWY	<i>N</i>-acetylglucosamine degradation I	glucosamine degradation	N-acetyl-glucosamine degradation
+PWY-1001	cellulose biosynthesis	
+PENTOSE-P-PWY	pentose phosphate pathway	pentose shunt	hexose monophosphate shunt	phosphogluconate pathway	superpathway of oxidative and non-oxidative branches of pentose phosphate pathway
+ASPARTATE-DEG1-PWY	L-aspartate degradation I	
+PWY-6348	phosphate acquisition	
+PWY-7344	UDP-D-galactose biosynthesis	
+MET-SAM-PWY	superpathway of <i>S</i>-adenosyl-L-methionine biosynthesis	
+12DICHLORETHDEG-PWY	1,2-dichloroethane degradation	
+ASPARTATESYN-PWY	L-aspartate biosynthesis	L-aspartate biosynthesis and degradation
+PWY-5347	superpathway of L-methionine biosynthesis (transsulfuration)	
+PWY-6894	thiamin diphosphate biosynthesis I (E. coli)	thiamine diphosphate biosynthesis	vitamin B<sub>1</sub> biosynthesis
+ILEUSYN-PWY	L-isoleucine biosynthesis I (from threonine)	
+P105-PWY	TCA cycle IV (2-oxoglutarate decarboxylase)	citric acid cycle	tricarboxylic acid cycle	Szent-Gyorgyi-Krebs cycle	Krebs cycle
+PWY-6629	superpathway of L-tryptophan biosynthesis	
+HOMOCYSDEGR-PWY	L-cysteine biosynthesis III (from L-homocysteine)	L-homocysteine degradation
+ARGSPECAT-PWY	spermine biosynthesis	
+PWY0-162	superpathway of pyrimidine ribonucleotides <i>de novo</i> biosynthesis	pyrimidine biosynthesis
+PWY-6890	4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis	HMP-PP biosynthesis
+BSUBPOLYAMSYN-PWY	spermidine biosynthesis I	arginine degradation to spermidine	spermidine biosynthesis
+PWY0-1021	L-alanine biosynthesis III	
+PWY-6910	hydroxymethylpyrimidine salvage	HMP salvage
+COA-PWY	coenzyme A biosynthesis I	CoA biosynthesis
+DTDPRHAMSYN-PWY	dTDP-L-rhamnose biosynthesis I	
+PWY-3461	L-tyrosine biosynthesis II	pretyrosine pathway
+GLYSYN-ALA-PWY	glycine biosynthesis III	
+PWY-7205	CMP phosphorylation	
+PWY-6124	inosine-5'-phosphate biosynthesis II	IMP biosynthesis II
+PWY1-2	L-alanine degradation IV	
+PWY-7176	UTP and CTP <i>de novo</i> biosynthesis	
+SO4ASSIM-PWY	sulfate reduction I (assimilatory)	
+ALANINE-VALINESYN-PWY	L-alanine biosynthesis I	
+PWY-6545	pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis III	
+GLYCLEAV-PWY	glycine cleavage	glycine cleavage system	glycine decarboxylase complex	gcv system	glycine cleavage complex
+PWY-4984	urea cycle	Krebs ornithine cycle	Krebs-Henseleit cycle
+GLYSYN-PWY	glycine biosynthesis I	
+PWY-7197	pyrimidine deoxyribonucleotide phosphorylation	
+SER-GLYSYN-PWY	superpathway of L-serine and glycine biosynthesis I	
+CITRULLINE-DEG-PWY	L-citrulline degradation	
+1CMET2-PWY	<i>N</i><sup>10</sup>-formyl-tetrahydrofolate biosynthesis	<i>N</i><sup>10</sup>-formyl-THF biosynthesis
+BRANCHED-CHAIN-AA-SYN-PWY	superpathway of branched amino acid biosynthesis	superpathway of L-leucine, L-valine, and L-isoleucine biosynthesis
+GLUTATHIONESYN-PWY	glutathione biosynthesis	
+PWY0-166	superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (E. coli)	
+PANTO-PWY	phosphopantothenate biosynthesis I	vitamin B<sub>5</sub> biosynthesis

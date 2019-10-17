@@ -1,0 +1,49 @@
+# Copyright SRI International 2007-2014
+#
+# Authors:
+#    Ron Caspi
+#    Alex Shearer
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Filename: /homedir/brg/aic/pgdbs/tier2/synelcyc/23.0/data/protein-features.dat
+#
+# Organism: Synechococcus elongatus PCC 7942
+# Database: NIL
+# Version: 23.0
+# Date and time generated: April 16, 2019, 11:16:35
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    ACCESSION-1
+#    ALTERNATE-SEQUENCE
+#    ATTACHED-GROUP
+#    CATALYTIC-ACTIVITY
+#    CITATIONS
+#    COMMENT
+#    COMPONENT-OF
+#    CREDITS
+#    DATA-SOURCE
+#    DBLINKS
+#    DOCUMENTATION
+#    FEATURE-COLOR
+#    FEATURE-OF
+#    HIDE-SLOT?
+#    HOMOLOGY-MOTIF
+#    INSTANCE-NAME-TEMPLATE
+#    LEFT-END-POSITION
+#    LINKAGE-TYPE
+#    MEMBER-SORT-FN
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    POSSIBLE-FEATURE-STATES
+#    RESIDUE-NUMBER
+#    RESIDUE-TYPE
+#    RIGHT-END-POSITION
+#    SYNONYMS
+#
+# The SYNEL database contains no Protein-Features.
