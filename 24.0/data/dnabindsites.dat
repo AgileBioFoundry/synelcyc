@@ -1,0 +1,330 @@
+# Copyright SRI International 2007-2014
+#
+# Authors:
+#    Ron Caspi
+#    Alex Shearer
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Synechococcus elongatus PCC 7942
+# Database: NIL
+# Version: 22.5
+# File Name: dnabindsites.dat
+# Date and time generated: September 11, 2018, 12:45:02
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    ABS-CENTER-POS
+#    CITATIONS
+#    COMMENT
+#    COMPONENT-OF
+#    CREDITS
+#    DATA-SOURCE
+#    DBLINKS
+#    DOCUMENTATION
+#    HIDE-SLOT?
+#    INSTANCE-NAME-TEMPLATE
+#    INVOLVED-IN-REGULATION
+#    LEFT-END-POSITION
+#    MEMBER-SORT-FN
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    RIGHT-END-POSITION
+#    SITE-LENGTH
+#    SYNONYMS
+#    UNMAPPED-COMPONENT-OF
+#
+UNIQUE-ID - BS490-12
+TYPES - DNA-Binding-Sites
+INVOLVED-IN-REGULATION - REG490-25
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-72
+TYPES - DNA-Binding-Sites
+ABS-CENTER-POS - 2240932.5    
+CITATIONS - 11852054:EV-EXP:3630351833:paley
+CITATIONS - 7988576:EV-EXP:3630351832:paley
+COMMENT - NtcA retarded fragment upstream of glnA gene
+COMMENT - Binding of NtcA protein to upstream fragment of glnA gene was demonstrated by gel retardation analysis.
+COMPONENT-OF - CHROMOSOME-44
+DBLINKS - (REGTRANSBASE "97227" NIL |paley| 3630351837 NIL NIL)
+DBLINKS - (REGTRANSBASE "97208" NIL |paley| 3630351837 NIL NIL)
+INVOLVED-IN-REGULATION - REG490-106
+SITE-LENGTH - 351
+//
+UNIQUE-ID - BS490-83
+TYPES - DNA-Binding-Sites
+ABS-CENTER-POS - 1442301
+CITATIONS - 8157591:EV-EXP-IDA:3630351834:paley
+COMMENT - SphR protected region 1 upstream of phoA gene
+COMMENT - Two SphR binding sites were mapped upstream of phoA gene by footprinting.
+COMPONENT-OF - CHROMOSOME-28
+DBLINKS - (REGTRANSBASE "109322" NIL |paley| 3630351838 NIL NIL)
+INVOLVED-IN-REGULATION - REG490-122
+SITE-LENGTH - 38
+//
+UNIQUE-ID - BS490-13
+TYPES - DNA-Binding-Sites
+INVOLVED-IN-REGULATION - REG490-28
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-4
+TYPES - DNA-Binding-Sites
+ABS-CENTER-POS - NIL
+INVOLVED-IN-REGULATION - REG490-12
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-84
+TYPES - DNA-Binding-Sites
+ABS-CENTER-POS - 1442194.5    
+CITATIONS - 8157591:EV-EXP-IDA:3630351835:paley
+COMMENT - SphR protected region 2 upstream of phoA gene
+COMMENT - Two SphR binding sites were mapped upstream of phoA gene by footprinting.
+COMPONENT-OF - CHROMOSOME-28
+DBLINKS - (REGTRANSBASE "109323" NIL |paley| 3630351838 NIL NIL)
+INVOLVED-IN-REGULATION - REG490-123
+SITE-LENGTH - 49
+//
+UNIQUE-ID - BS490-80
+TYPES - DNA-Binding-Sites
+ABS-CENTER-POS - 1265040
+CITATIONS - 12393192:EV-EXP-IMP:3630351834:paley
+CITATIONS - 12393192:EV-EXP:3630351834:paley
+COMMENT - NtcA retarded fragment at nirB-ntcB operon
+COMMENT - DNA fragment corresponding to the -128 to +33 region of the nirB translational start was shown to be retarded in gel by the NtcA protein. Mutations in this fragment changed the affinity rate.
+COMPONENT-OF - CHROMOSOME-24
+DBLINKS - (REGTRANSBASE "100130" NIL |paley| 3630351838 NIL NIL)
+INVOLVED-IN-REGULATION - REG490-117
+SITE-LENGTH - 160
+//
+UNIQUE-ID - BS490-5
+TYPES - DNA-Binding-Sites
+INVOLVED-IN-REGULATION - REG490-18
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-24
+TYPES - DNA-Binding-Sites
+INVOLVED-IN-REGULATION - REG490-43
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-10
+TYPES - DNA-Binding-Sites
+INVOLVED-IN-REGULATION - REG490-23
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-78
+TYPES - DNA-Binding-Sites
+ABS-CENTER-POS - 431321
+CITATIONS - 12393192:EV-EXP-IMP:3630351833:paley
+CITATIONS - 12393192:EV-EXP:3630351833:paley
+COMMENT - NtcA retarded fragment at amt1 gene
+COMMENT - DNA fragment corresponding to the -217 to -58 region of the amt1 gene was shown to be retarded in gel by the NtcA protein. Mutations in this fragment changed the affinity rate.
+COMPONENT-OF - CHROMOSOME-8
+DBLINKS - (REGTRANSBASE "100128" NIL |paley| 3630351837 NIL NIL)
+INVOLVED-IN-REGULATION - REG490-115
+SITE-LENGTH - 160
+//
+UNIQUE-ID - BS490-81
+TYPES - DNA-Binding-Sites
+ABS-CENTER-POS - 126242
+CITATIONS - 12393192:EV-EXP:3630351834:paley
+COMMENT - NtcA retarded fragment at ntcA gene
+COMMENT - DNA fragment corresponding to the -227 to -70 region of the  translational start was shown to be 
+/
+/retarded in gel by the NtcA protein.
+COMPONENT-OF - CHROMOSOME-2
+DBLINKS - (REGTRANSBASE "100131" NIL |paley| 3630351838 NIL NIL)
+INVOLVED-IN-REGULATION - REG490-119
+INVOLVED-IN-REGULATION - REG490-118
+SITE-LENGTH - 158
+//
+UNIQUE-ID - BS490-21
+TYPES - DNA-Binding-Sites
+INVOLVED-IN-REGULATION - REG490-40
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-25
+TYPES - DNA-Binding-Sites
+INVOLVED-IN-REGULATION - REG490-44
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-79
+TYPES - DNA-Binding-Sites
+ABS-CENTER-POS - 1264846
+CITATIONS - 12393192:EV-EXP:3630351833:paley
+COMMENT - NtcA retarded fragment at nir-ntrABCD-narB operon
+COMMENT - DNA fragment corresponding to the -123 to +33 region of the nir translational start was shown to be 
+/
+/retarded in gel by the NtcA protein.
+COMPONENT-OF - CHROMOSOME-24
+DBLINKS - (REGTRANSBASE "100129" NIL |paley| 3630351837 NIL NIL)
+INVOLVED-IN-REGULATION - REG490-116
+SITE-LENGTH - 156
+//
+UNIQUE-ID - BS490-22
+TYPES - DNA-Binding-Sites
+INVOLVED-IN-REGULATION - REG490-41
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-76
+TYPES - DNA-Binding-Sites
+ABS-CENTER-POS - 2240917
+CITATIONS - 7988576:EV-EXP-IDA:3630351832:paley
+COMMENT - NtcA protected fragment upstream of glnA gene
+COMMENT - NtcA binding site was mapped upstream of glnA gene by footprinting.
+COMPONENT-OF - CHROMOSOME-44
+DBLINKS - (REGTRANSBASE "97212" NIL |paley| 3630351837 NIL NIL)
+INVOLVED-IN-REGULATION - REG490-112
+INVOLVED-IN-REGULATION - REG490-111
+SITE-LENGTH - 34
+//
+UNIQUE-ID - BS490-19
+TYPES - DNA-Binding-Sites
+INVOLVED-IN-REGULATION - REG490-38
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-73
+TYPES - DNA-Binding-Sites
+ABS-CENTER-POS - 1265012
+CITATIONS - 7988576:EV-EXP:3630351832:paley
+COMMENT - NtcA retarded fragment at nir-nrtABCD-narB operon
+COMMENT - Binding of NtcA protein to upstream fragment of nir-nrtABCD-narB operon was demonstrated by gel retardation analysis.
+COMPONENT-OF - CHROMOSOME-24
+DBLINKS - (REGTRANSBASE "97209" NIL |paley| 3630351837 NIL NIL)
+INVOLVED-IN-REGULATION - REG490-107
+SITE-LENGTH - 696
+//
+UNIQUE-ID - BS490-14
+TYPES - DNA-Binding-Sites
+INVOLVED-IN-REGULATION - REG490-30
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-85
+TYPES - DNA-Binding-Sites
+ABS-CENTER-POS - 2523005.5    
+CITATIONS - 7741855:EV-EXP-IDA:3630351835:paley
+COMMENT - SphR protected region upstream of sphX gene
+COMMENT - SphR binding site was mapped upstream of sphX gene by footprinting.
+COMPONENT-OF - CHROMOSOME-49
+DBLINKS - (REGTRANSBASE "109438" NIL |paley| 3630351838 NIL NIL)
+INVOLVED-IN-REGULATION - REG490-124
+SITE-LENGTH - 55
+//
+UNIQUE-ID - BS490-6
+TYPES - DNA-Binding-Sites
+INVOLVED-IN-REGULATION - REG490-19
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-11
+TYPES - DNA-Binding-Sites
+INVOLVED-IN-REGULATION - REG490-24
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-82
+TYPES - DNA-Binding-Sites
+ABS-CENTER-POS - 318645.5    
+CITATIONS - 12393192:EV-EXP-IMP:3630351834:paley
+CITATIONS - 12393192:EV-EXP:3630351834:paley
+COMMENT - NtcA retarded fragment at glnB gene
+COMMENT - DNA fragment corresponding to the -256 to -96 region of the glnB translational start was shown to be retarded in gel by the NtcA protein. Mutations in this fragment changed the affinity rate.
+COMPONENT-OF - CHROMOSOME-6
+DBLINKS - (REGTRANSBASE "100132" NIL |paley| 3630351838 NIL NIL)
+INVOLVED-IN-REGULATION - REG490-121
+INVOLVED-IN-REGULATION - REG490-120
+SITE-LENGTH - 131
+//
+UNIQUE-ID - BS490-26
+TYPES - DNA-Binding-Sites
+INVOLVED-IN-REGULATION - REG490-45
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-8
+TYPES - DNA-Binding-Sites
+INVOLVED-IN-REGULATION - REG490-21
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-23
+TYPES - DNA-Binding-Sites
+INVOLVED-IN-REGULATION - REG490-42
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-77
+TYPES - DNA-Binding-Sites
+ABS-CENTER-POS - 2240917
+CITATIONS - 12393192:EV-EXP-IMP:3630351833:paley
+CITATIONS - 12393192:EV-EXP:3630351833:paley
+COMMENT - NtcA retarded fragment at glnA gene
+COMMENT - DNA fragment corresponding to the -271 to -113 region of the glnA translational start was shown to be retarded in gel by the NtcA protein. Mutations in this fragment changed the affinity rate.
+COMPONENT-OF - CHROMOSOME-44
+DBLINKS - (REGTRANSBASE "100127" NIL |paley| 3630351837 NIL NIL)
+INVOLVED-IN-REGULATION - REG490-114
+INVOLVED-IN-REGULATION - REG490-113
+SITE-LENGTH - 160
+//
+UNIQUE-ID - BS490-20
+TYPES - DNA-Binding-Sites
+INVOLVED-IN-REGULATION - REG490-39
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-74
+TYPES - DNA-Binding-Sites
+ABS-CENTER-POS - 126104.5    
+CITATIONS - 7988576:EV-EXP:3630351832:paley
+COMMENT - NtcA retarded fragment upstream of ntcA gene
+COMMENT - Binding of NtcA protein to upstream fragment of ntcA gene was demonstrated by gel retardation analysis.
+COMPONENT-OF - CHROMOSOME-2
+DBLINKS - (REGTRANSBASE "97210" NIL |paley| 3630351837 NIL NIL)
+INVOLVED-IN-REGULATION - REG490-109
+INVOLVED-IN-REGULATION - REG490-108
+SITE-LENGTH - 335
+//
+UNIQUE-ID - BS490-15
+TYPES - DNA-Binding-Sites
+COMMENT - The cyanobacterial global regulator NtcA is involved in transcriptional control of the
+/|FRAME: SYNPCC7942_2393| gene according to nitrogen status.
+/The gltX transcript level is finely tuned by a dynamic equilibrium between activation and repression
+/relying upon the cellular concentration of NtcA |CITS: [12421319]|
+INVOLVED-IN-REGULATION - REG490-31
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-75
+TYPES - DNA-Binding-Sites
+ABS-CENTER-POS - 1264907.5    
+CITATIONS - 7988576:EV-EXP-IDA:3630351832:paley
+COMMENT - NtcA protected fragment upstream of nir-nrtABCD-na
+COMMENT - NtcA binding site was mapped upstream of nir-nrtABCD-narB operon by footprinting.
+COMPONENT-OF - CHROMOSOME-24
+DBLINKS - (REGTRANSBASE "97211" NIL |paley| 3630351837 NIL NIL)
+INVOLVED-IN-REGULATION - REG490-110
+SITE-LENGTH - 97
+//
+UNIQUE-ID - BS490-86
+TYPES - DNA-Binding-Sites
+ABS-CENTER-POS - 431321.5    
+CITATIONS - 11882722:EV-EXP:3630351835:paley
+COMMENT - NtcA retarded fragment upstream of amt1 gene
+COMMENT - Binding of NtcA protein to upstream fragment of amt1 gene was demonstrated by gel retardation analysis.
+COMPONENT-OF - CHROMOSOME-8
+DBLINKS - (REGTRANSBASE "109443" NIL |paley| 3630351838 NIL NIL)
+INVOLVED-IN-REGULATION - REG490-125
+SITE-LENGTH - 159
+//
+UNIQUE-ID - BS490-18
+TYPES - DNA-Binding-Sites
+INVOLVED-IN-REGULATION - REG490-37
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-7
+TYPES - DNA-Binding-Sites
+INVOLVED-IN-REGULATION - REG490-20
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
+UNIQUE-ID - BS490-9
+TYPES - DNA-Binding-Sites
+INVOLVED-IN-REGULATION - REG490-22
+UNMAPPED-COMPONENT-OF - CHROMOSOME
+//
