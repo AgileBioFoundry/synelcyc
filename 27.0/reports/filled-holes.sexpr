@@ -1,0 +1,1113 @@
+
+(#S(FILLED-HOLE :RXN SULFITE-REDUCT-RXN
+                :HIT #<SYNPCC7942_0019 instance frame in SYNELBASE[M] @ #x1001d42a8a2>
+                :PROB 0.99999005
+                :RXN-NAME NIL
+                :RXN-EC "1.8.1.2"
+                :PWY-LIST (#<SO4ASSIM-PWY instance frame in SYNELBASE[M] @ #x10014945482>)
+                :ALL-RXNS (#<SULFITE-REDUCT-RXN instance frame in SYNELBASE[M] @ #x10014a18172> #<SULFITE-REDUCTASE-FERREDOXIN-RXN instance frame in SYNELBASE[M] @ #x100148da922>)
+                :REPLACED? NIL
+                :FUNCTIONS "Sulfite reductase, ferredoxin dependent"
+                :DATE 3417893588)
+ #S(FILLED-HOLE :RXN RXN0-4281
+                :HIT #<SYNPCC7942_0026 instance frame in SYNELBASE[M] @ #x1001d42ac22>
+                :PROB 0.9996712
+                :RXN-NAME NIL
+                :RXN-EC "1.1.1.-"
+                :PWY-LIST (#<PWY-5453 instance frame in SYNELBASE[M] @ #x100148963a2>)
+                :ALL-RXNS (#<RXN0-4281 instance frame in SYNELBASE[M] @ #x100149b5b02>)
+                :REPLACED? NIL
+                :FUNCTIONS "conserved hypothetical protein"
+                :DATE 3620924492)
+ #S(FILLED-HOLE :RXN RXN-11483
+                :HIT #<SYNPCC7942_0028 instance frame in SYNELBASE[M] @ #x1001d42ad22>
+                :PROB 0.98824954
+                :RXN-NAME NIL
+                :RXN-EC "3.1.1.85"
+                :PWY-LIST (#<PWY-6519 instance frame in SYNELBASE[M] @ #x100148e2152>)
+                :ALL-RXNS (#<RXN-11483 instance frame in SYNELBASE[M] @ #x10014906ed2>)
+                :REPLACED? NIL
+                :FUNCTIONS "conserved hypothetical protein"
+                :DATE 3620924488)
+ #S(FILLED-HOLE :RXN RXN-4301
+                :HIT #<SYNPCC7942_0086 instance frame in SYNELBASE[M] @ #x1001d42ca22>
+                :PROB NIL
+                :RXN-NAME NIL
+                :RXN-EC "3.2.1.68"
+                :PWY-LIST NIL
+                :ALL-RXNS (#<RXN-4301 instance frame in SYNELBASE[M] @ #x1001487ab32>)
+                :REPLACED? NIL
+                :FUNCTIONS "glycogen debranching enzyme"
+                :DATE 3422993178)
+ #S(FILLED-HOLE :RXN HISTIDPHOS-RXN
+                :HIT #<SYNPCC7942_0125 instance frame in SYNELBASE[M] @ #x1001d42df22>
+                :PROB 0.9999611
+                :RXN-NAME NIL
+                :RXN-EC "3.1.3.15"
+                :PWY-LIST (#<HISTSYN-PWY instance frame in SYNELBASE[M] @ #x100149380d2>)
+                :ALL-RXNS (#<HISTIDPHOS-RXN instance frame in SYNELBASE[M] @ #x100148966a2> #<IMIDPHOSDEHYD-RXN instance frame in SYNELBASE[M] @ #x10014a5bc12>)
+                :REPLACED? NIL
+                :FUNCTIONS "Imidazoleglycerol-phosphate dehydratase"
+                :DATE 3417893558)
+ #S(FILLED-HOLE :RXN RXN0-2145
+                :HIT #<SYNPCC7942_0126 instance frame in SYNELBASE[M] @ #x1001d42dfa2>
+                :PROB 0.99933034
+                :RXN-NAME NIL
+                :RXN-EC "1.3.1.9"
+                :PWY-LIST (#<PWY0-862 instance frame in SYNELBASE[M] @ #x100149c29a2>)
+                :ALL-RXNS (#<RXN-9657 instance frame in SYNELBASE[M] @ #x10014949e32> #<RXN-11482 instance frame in SYNELBASE[M] @ #x10014a1c192> #<RXN-11478 instance frame in SYNELBASE[M] @ #x10014915302>
+                           #<RXN0-2145 instance frame in SYNELBASE[M] @ #x100149bb3b2> #<ENOYL-ACP-REDUCT-NADH-RXN instance frame in SYNELBASE[M] @ #x100149b9d02> #<RXN1G-488 instance frame in SYNELBASE[M] @ #x100148e78b2>
+                           #<RXN1G-526 instance frame in SYNELBASE[M] @ #x10014a75112> #<RXN-9663 instance frame in SYNELBASE[M] @ #x100149a86f2> #<RXN1G-395 instance frame in SYNELBASE[M] @ #x100149c5ac2>
+                           #<RXN-9661 instance frame in SYNELBASE[M] @ #x100148fc462> #<RXN-9658 instance frame in SYNELBASE[M] @ #x10014896a62> #<RXN-9659 instance frame in SYNELBASE[M] @ #x100149f72f2>
+                           #<RXN-9635 instance frame in SYNELBASE[M] @ #x1001495b592> #<RXN-10062 instance frame in SYNELBASE[M] @ #x100149938a2> #<RXN-9660 instance frame in SYNELBASE[M] @ #x10014988b02>
+                           #<RXN-9662 instance frame in SYNELBASE[M] @ #x10014a5b1f2>)
+                :REPLACED? NIL
+                :FUNCTIONS "enoyl-(acyl-carrier-protein) reductase"
+                :DATE 3417893551)
+ #S(FILLED-HOLE :RXN RXN-11478
+                :HIT #<SYNPCC7942_0126 instance frame in SYNELBASE[M] @ #x1001d42dfa2>
+                :PROB 0.99945647
+                :RXN-NAME NIL
+                :RXN-EC "1.3.1.9"
+                :PWY-LIST (#<PWY-6519 instance frame in SYNELBASE[M] @ #x100148e2152>)
+                :ALL-RXNS (#<RXN-9657 instance frame in SYNELBASE[M] @ #x10014949e32> #<RXN-11482 instance frame in SYNELBASE[M] @ #x10014a1c192> #<RXN-11478 instance frame in SYNELBASE[M] @ #x10014915302>
+                           #<RXN0-2145 instance frame in SYNELBASE[M] @ #x100149bb3b2> #<ENOYL-ACP-REDUCT-NADH-RXN instance frame in SYNELBASE[M] @ #x100149b9d02> #<RXN1G-488 instance frame in SYNELBASE[M] @ #x100148e78b2>
+                           #<RXN1G-526 instance frame in SYNELBASE[M] @ #x10014a75112> #<RXN-9663 instance frame in SYNELBASE[M] @ #x100149a86f2> #<RXN1G-395 instance frame in SYNELBASE[M] @ #x100149c5ac2>
+                           #<RXN-9661 instance frame in SYNELBASE[M] @ #x100148fc462> #<RXN-9658 instance frame in SYNELBASE[M] @ #x10014896a62> #<RXN-9659 instance frame in SYNELBASE[M] @ #x100149f72f2>
+                           #<RXN-9635 instance frame in SYNELBASE[M] @ #x1001495b592> #<RXN-10062 instance frame in SYNELBASE[M] @ #x100149938a2> #<RXN-9660 instance frame in SYNELBASE[M] @ #x10014988b02>
+                           #<RXN-9662 instance frame in SYNELBASE[M] @ #x10014a5b1f2>)
+                :REPLACED? NIL
+                :FUNCTIONS "enoyl-(acyl-carrier-protein) reductase"
+                :DATE 3620924488)
+ #S(FILLED-HOLE :RXN RXN-11482
+                :HIT #<SYNPCC7942_0126 instance frame in SYNELBASE[M] @ #x1001d42dfa2>
+                :PROB 0.99945647
+                :RXN-NAME NIL
+                :RXN-EC "1.3.1.9"
+                :PWY-LIST (#<PWY-6519 instance frame in SYNELBASE[M] @ #x100148e2152>)
+                :ALL-RXNS (#<RXN-9657 instance frame in SYNELBASE[M] @ #x10014949e32> #<RXN-11482 instance frame in SYNELBASE[M] @ #x10014a1c192> #<RXN-11478 instance frame in SYNELBASE[M] @ #x10014915302>
+                           #<RXN0-2145 instance frame in SYNELBASE[M] @ #x100149bb3b2> #<ENOYL-ACP-REDUCT-NADH-RXN instance frame in SYNELBASE[M] @ #x100149b9d02> #<RXN1G-488 instance frame in SYNELBASE[M] @ #x100148e78b2>
+                           #<RXN1G-526 instance frame in SYNELBASE[M] @ #x10014a75112> #<RXN-9663 instance frame in SYNELBASE[M] @ #x100149a86f2> #<RXN1G-395 instance frame in SYNELBASE[M] @ #x100149c5ac2>
+                           #<RXN-9661 instance frame in SYNELBASE[M] @ #x100148fc462> #<RXN-9658 instance frame in SYNELBASE[M] @ #x10014896a62> #<RXN-9659 instance frame in SYNELBASE[M] @ #x100149f72f2>
+                           #<RXN-9635 instance frame in SYNELBASE[M] @ #x1001495b592> #<RXN-10062 instance frame in SYNELBASE[M] @ #x100149938a2> #<RXN-9660 instance frame in SYNELBASE[M] @ #x10014988b02>
+                           #<RXN-9662 instance frame in SYNELBASE[M] @ #x10014a5b1f2>)
+                :REPLACED? NIL
+                :FUNCTIONS "enoyl-(acyl-carrier-protein) reductase"
+                :DATE 3620924488)
+ #S(FILLED-HOLE :RXN RXN-9657
+                :HIT #<SYNPCC7942_0126 instance frame in SYNELBASE[M] @ #x1001d42dfa2>
+                :PROB 0.99989015
+                :RXN-NAME "crotonyl-[acp] reductase"
+                :RXN-EC "1.3.1.9"
+                :PWY-LIST (#<PWY-5971 instance frame in SYNELBASE[M] @ #x100149a8032>)
+                :ALL-RXNS (#<RXN-9657 instance frame in SYNELBASE[M] @ #x10014949e32> #<RXN-11482 instance frame in SYNELBASE[M] @ #x10014a1c192> #<RXN-11478 instance frame in SYNELBASE[M] @ #x10014915302>
+                           #<RXN0-2145 instance frame in SYNELBASE[M] @ #x100149bb3b2> #<ENOYL-ACP-REDUCT-NADH-RXN instance frame in SYNELBASE[M] @ #x100149b9d02> #<RXN1G-488 instance frame in SYNELBASE[M] @ #x100148e78b2>
+                           #<RXN1G-526 instance frame in SYNELBASE[M] @ #x10014a75112> #<RXN-9663 instance frame in SYNELBASE[M] @ #x100149a86f2> #<RXN1G-395 instance frame in SYNELBASE[M] @ #x100149c5ac2>
+                           #<RXN-9661 instance frame in SYNELBASE[M] @ #x100148fc462> #<RXN-9658 instance frame in SYNELBASE[M] @ #x10014896a62> #<RXN-9659 instance frame in SYNELBASE[M] @ #x100149f72f2>
+                           #<RXN-9635 instance frame in SYNELBASE[M] @ #x1001495b592> #<RXN-10062 instance frame in SYNELBASE[M] @ #x100149938a2> #<RXN-9660 instance frame in SYNELBASE[M] @ #x10014988b02>
+                           #<RXN-9662 instance frame in SYNELBASE[M] @ #x10014a5b1f2>)
+                :REPLACED? NIL
+                :FUNCTIONS "enoyl-(acyl-carrier-protein) reductase"
+                :DATE 3620924494)
+ #S(FILLED-HOLE :RXN RXN-9789
+                :HIT #<SYNPCC7942_0158 instance frame in SYNELBASE[M] @ #x1001d42efa2>
+                :PROB 0.9847316
+                :RXN-NAME NIL
+                :RXN-EC "2.7.7.73"
+                :PWY-LIST (#<PWY-6892 instance frame in SYNELBASE[M] @ #x100148909a2>)
+                :ALL-RXNS (#<RXN-9788 instance frame in SYNELBASE[M] @ #x100148bf502> #<RXN-9789 instance frame in SYNELBASE[M] @ #x10014a44f02> #<RXN-12473 instance frame in SYNELBASE[M] @ #x10014a19282>
+                           #<RXN0-6359 instance frame in SYNELBASE[M] @ #x10014a63292> #<THIOSULFATE-SULFURTRANSFERASE-RXN instance frame in SYNELBASE[M] @ #x100148a9b42>)
+                :REPLACED? NIL
+                :FUNCTIONS "rhodanese"
+                :DATE 3620924496)
+ #S(FILLED-HOLE :RXN RXN-12473
+                :HIT #<SYNPCC7942_0158 instance frame in SYNELBASE[M] @ #x1001d42efa2>
+                :PROB 0.99997646
+                :RXN-NAME NIL
+                :RXN-EC "2.8.1.11"
+                :PWY-LIST (#<PWY-6823 instance frame in SYNELBASE[M] @ #x1001e4e3c32>)
+                :ALL-RXNS (#<RXN-9788 instance frame in SYNELBASE[M] @ #x100148bf502> #<RXN-9789 instance frame in SYNELBASE[M] @ #x10014a44f02> #<RXN-12473 instance frame in SYNELBASE[M] @ #x10014a19282>
+                           #<RXN0-6359 instance frame in SYNELBASE[M] @ #x10014a63292> #<THIOSULFATE-SULFURTRANSFERASE-RXN instance frame in SYNELBASE[M] @ #x100148a9b42>)
+                :REPLACED? NIL
+                :FUNCTIONS "rhodanese"
+                :DATE 3620924492)
+ #S(FILLED-HOLE :RXN RXN-9788
+                :HIT #<SYNPCC7942_0158 instance frame in SYNELBASE[M] @ #x1001d42efa2>
+                :PROB 0.99990183
+                :RXN-NAME NIL
+                :RXN-EC "2.8.1.-"
+                :PWY-LIST (#<PWY-6892 instance frame in SYNELBASE[M] @ #x100148909a2>)
+                :ALL-RXNS (#<RXN-9788 instance frame in SYNELBASE[M] @ #x100148bf502> #<RXN-9789 instance frame in SYNELBASE[M] @ #x10014a44f02> #<RXN-12473 instance frame in SYNELBASE[M] @ #x10014a19282>
+                           #<RXN0-6359 instance frame in SYNELBASE[M] @ #x10014a63292> #<THIOSULFATE-SULFURTRANSFERASE-RXN instance frame in SYNELBASE[M] @ #x100148a9b42>)
+                :REPLACED? NIL
+                :FUNCTIONS "rhodanese"
+                :DATE 3620924496)
+ #S(FILLED-HOLE :RXN NMNAMIDOHYDRO-RXN
+                :HIT #<SYNPCC7942_0280 instance frame in SYNELBASE[M] @ #x1001d432da2>
+                :PROB 0.9996712
+                :RXN-NAME NIL
+                :RXN-EC "3.5.1.42"
+                :PWY-LIST (#<PYRIDNUCSAL-PWY instance frame in SYNELBASE[M] @ #x10014887f42>)
+                :ALL-RXNS (#<NMNAMIDOHYDRO-RXN instance frame in SYNELBASE[M] @ #x100148cc4f2>)
+                :REPLACED? NIL
+                :FUNCTIONS "Competence-damaged protein"
+                :DATE 3620924493)
+ #S(FILLED-HOLE :RXN 2.3.1.157-RXN
+                :HIT #<SYNPCC7942_0288 instance frame in SYNELBASE[M] @ #x1001d4331a2>
+                :PROB 1.0
+                :RXN-NAME NIL
+                :RXN-EC "2.3.1.157"
+                :PWY-LIST (#<UDPNAGSYN-PWY instance frame in SYNELBASE[M] @ #x100148ef922> #<PWY0-1261 instance frame in SYNELBASE[M] @ #x100149c7202>)
+                :ALL-RXNS (#<2.3.1.157-RXN instance frame in SYNELBASE[M] @ #x100149ab6c2> #<NAG1P-URIDYLTRANS-RXN instance frame in SYNELBASE[M] @ #x100149ab4e2>)
+                :REPLACED? NIL
+                :FUNCTIONS "UDP-N-acetylglucosamine pyrophosphorylase"
+                :DATE 3417893596)
+ #S(FILLED-HOLE :RXN RXN0-5226
+                :HIT #<SYNPCC7942_0354 instance frame in SYNELBASE[M] @ #x1001d435322>
+                :PROB 0.9993276
+                :RXN-NAME NIL
+                :RXN-EC "3.2.1.52"
+                :PWY-LIST (#<PWY0-1261 instance frame in SYNELBASE[M] @ #x100149c7202>)
+                :ALL-RXNS (#<RXN0-5226 instance frame in SYNELBASE[M] @ #x100148b0832>)
+                :REPLACED? NIL
+                :FUNCTIONS "Beta-glucosidase-related glycosidases-like"
+                :DATE 3620924490)
+ #S(FILLED-HOLE :RXN O-SUCCHOMOSERLYASE-RXN
+                :HIT #<SYNPCC7942_0370 instance frame in SYNELBASE[M] @ #x1001d435b22>
+                :PROB 0.99998486
+                :RXN-NAME NIL
+                :RXN-EC "2.5.1.48"
+                :PWY-LIST (#<HOMOSER-METSYN-PWY instance frame in SYNELBASE[M] @ #x1001498a602>)
+                :ALL-RXNS (#<O-SUCCHOMOSERLYASE-RXN instance frame in SYNELBASE[M] @ #x10014886172> #<RXN-14048 instance frame in SYNELBASE[M] @ #x100149cfb42> #<ACSERLY-RXN instance frame in SYNELBASE[M] @ #x100148bbd52>
+                           #<RXN-12726 instance frame in SYNELBASE[M] @ #x100148b6562> #<SULFOCYS-RXN instance frame in SYNELBASE[M] @ #x100149d1402> #<O-ACETYLHOMOSERINE-THIOL-LYASE-RXN instance frame in SYNELBASE[M] @ #x10014a51aa2>
+                           #<ACETYLHOMOSER-CYS-RXN instance frame in SYNELBASE[M] @ #x10014994b02>)
+                :REPLACED? NIL
+                :FUNCTIONS "O-acetylhomoserine/O-acetylserine sulfhydrylase"
+                :DATE 3620924492)
+ #S(FILLED-HOLE :RXN RXN-14048
+                :HIT #<SYNPCC7942_0370 instance frame in SYNELBASE[M] @ #x1001d435b22>
+                :PROB 0.99992526
+                :RXN-NAME NIL
+                :RXN-EC NIL
+                :PWY-LIST (#<HOMOCYSDEGR-PWY instance frame in SYNELBASE[M] @ #x10014a7ae42>)
+                :ALL-RXNS (#<O-SUCCHOMOSERLYASE-RXN instance frame in SYNELBASE[M] @ #x10014886172> #<RXN-14048 instance frame in SYNELBASE[M] @ #x100149cfb42> #<ACSERLY-RXN instance frame in SYNELBASE[M] @ #x100148bbd52>
+                           #<RXN-12726 instance frame in SYNELBASE[M] @ #x100148b6562> #<SULFOCYS-RXN instance frame in SYNELBASE[M] @ #x100149d1402> #<O-ACETYLHOMOSERINE-THIOL-LYASE-RXN instance frame in SYNELBASE[M] @ #x10014a51aa2>
+                           #<ACETYLHOMOSER-CYS-RXN instance frame in SYNELBASE[M] @ #x10014994b02>)
+                :REPLACED? NIL
+                :FUNCTIONS "O-acetylhomoserine/O-acetylserine sulfhydrylase"
+                :DATE 3620924491)
+ #S(FILLED-HOLE :RXN RXN0-743
+                :HIT #<SYNPCC7942_0441 instance frame in SYNELBASE[M] @ #x1001d437f22>
+                :PROB 0.99774176
+                :RXN-NAME NIL
+                :RXN-EC "5.4.99.18"
+                :PWY-LIST (#<PWY-6123 instance frame in SYNELBASE[M] @ #x10014970052>)
+                :ALL-RXNS (#<RXN0-743 instance frame in SYNELBASE[M] @ #x1001485c322>)
+                :REPLACED? NIL
+                :FUNCTIONS "phosphoribosylaminoimidazole carboxylase, catalytic subunit"
+                :DATE 3417893577)
+ #S(FILLED-HOLE :RXN ALCOHOL-DEHYDROG-RXN
+                :HIT #<SYNPCC7942_0459 instance frame in SYNELBASE[M] @ #x1001d438822>
+                :PROB 0.99968934
+                :RXN-NAME "ethanol dehydrogenase"
+                :RXN-EC "1.1.1.1"
+                :PWY-LIST (#<ETOH-ACETYLCOA-ANA-PWY instance frame in SYNELBASE[M] @ #x10014916e02> #<PWY66-21 instance frame in SYNELBASE[M] @ #x100149ec732>)
+                :ALL-RXNS (#<RXN-2962 instance frame in SYNELBASE[M] @ #x10014a37dc2> #<ALCOHOL-DEHYDROG-RXN instance frame in SYNELBASE[M] @ #x100148f20e2>)
+                :REPLACED? NIL
+                :FUNCTIONS "glutathione-dependent formaldehyde dehydrogenase"
+                :DATE 3417893586)
+ #S(FILLED-HOLE :RXN RXN-11302
+                :HIT #<SYNPCC7942_0482 instance frame in SYNELBASE[M] @ #x1001d4393a2>
+                :PROB 0.9982799
+                :RXN-NAME "peptidoglycan transpeptidase (Gram-negative bacteria)"
+                :RXN-EC "3.4.16.4"
+                :PWY-LIST NIL
+                :ALL-RXNS (#<RXN-11302 instance frame in SYNELBASE[M] @ #x100148a5282>)
+                :REPLACED? NIL
+                :FUNCTIONS "penicillin-binding protein FtsI"
+                :DATE 3525189324)
+ #S(FILLED-HOLE :RXN SUCCSEMIALDDEHYDROG-RXN
+                :HIT #<SYNPCC7942_0489 instance frame in SYNELBASE[M] @ #x1001d439722>
+                :PROB 0.9993276
+                :RXN-NAME NIL
+                :RXN-EC "1.2.1.79"
+                :PWY-LIST (#<P105-PWY instance frame in SYNELBASE[M] @ #x100148fe682>)
+                :ALL-RXNS (#<SUCCSEMIALDDEHYDROG-RXN instance frame in SYNELBASE[M] @ #x10014872c42> #<1.2.99.7-RXN instance frame in SYNELBASE[M] @ #x1001490ae32> #<RXN-12000 instance frame in SYNELBASE[M] @ #x100149f8642>
+                           #<ACETALD-DEHYDROG-RXN instance frame in SYNELBASE[M] @ #x100149f6272> #<ALDEHYDE-DEHYDROGENASE-NADP+-RXN instance frame in SYNELBASE[M] @ #x100148bd2e2>
+                           #<BENZALDEHYDE-DEHYDROGENASE-NADP+-RXN instance frame in SYNELBASE[M] @ #x10014924f02> #<RXN0-3962 instance frame in SYNELBASE[M] @ #x1001490ffc2> #<RXN-12165 instance frame in SYNELBASE[M] @ #x1001488cc82>
+                           #<RXN-37 instance frame in SYNELBASE[M] @ #x10014929e22> #<SUCCGLUALDDEHYD-RXN instance frame in SYNELBASE[M] @ #x100149ba7e2> #<ALDHDEHYDROG-RXN instance frame in SYNELBASE[M] @ #x100148c98b2>
+                           #<BENZALDEHYDE-DEHYDROGENASE-NAD+-RXN instance frame in SYNELBASE[M] @ #x10014a1df32> #<RXN66-479 instance frame in SYNELBASE[M] @ #x10014a6f6e2> #<R222-RXN instance frame in SYNELBASE[M] @ #x100149fc152>
+                           #<RXN66-3 instance frame in SYNELBASE[M] @ #x10014a45c22> #<1.2.1.65-RXN instance frame in SYNELBASE[M] @ #x100148fa722> #<LACTALDDEHYDROG-RXN instance frame in SYNELBASE[M] @ #x10014a704c2>
+                           #<RXN-4142 instance frame in SYNELBASE[M] @ #x100149ffcf2> #<RXN66-472 instance frame in SYNELBASE[M] @ #x10014964682> #<RXN66-476 instance frame in SYNELBASE[M] @ #x1001496ca22>)
+                :REPLACED? NIL
+                :FUNCTIONS "aldehyde dehydrogenase"
+                :DATE 3620924496)
+ #S(FILLED-HOLE :RXN RXN-12104
+                :HIT #<SYNPCC7942_0530 instance frame in SYNELBASE[M] @ #x1001d43aba2>
+                :PROB 0.99933034
+                :RXN-NAME NIL
+                :RXN-EC "1.17.99.6"
+                :PWY-LIST (#<PWY-6700 instance frame in SYNELBASE[M] @ #x100149cde92>)
+                :ALL-RXNS (#<RXN-12104 instance frame in SYNELBASE[M] @ #x1001497fd42>)
+                :REPLACED? NIL
+                :FUNCTIONS "4Fe-4S cluster binding"
+                :DATE 3620924496)
+ #S(FILLED-HOLE :RXN RXN-9539
+                :HIT #<SYNPCC7942_0537 instance frame in SYNELBASE[M] @ #x1001d43af22>
+                :PROB 0.9986811
+                :RXN-NAME "3-oxo-palmitoyl-[acyl-carrier protein] synthase"
+                :RXN-EC "2.3.1.41"
+                :PWY-LIST (#<PWY-5971 instance frame in SYNELBASE[M] @ #x100149a8032>)
+                :ALL-RXNS (#<MALONYL-ACPDECARBOX-RXN instance frame in SYNELBASE[M] @ #x100149dbed2> #<RXN-9516 instance frame in SYNELBASE[M] @ #x10014a343a2> #<RXN-9523 instance frame in SYNELBASE[M] @ #x100149dee72>
+                           #<RXN-9527 instance frame in SYNELBASE[M] @ #x100148fb142> #<RXN-9531 instance frame in SYNELBASE[M] @ #x10014885c92> #<RXN-9535 instance frame in SYNELBASE[M] @ #x10014a2b372>
+                           #<RXN-9539 instance frame in SYNELBASE[M] @ #x1001496ea92> #<RXN-11479 instance frame in SYNELBASE[M] @ #x10014a3b212> #<RXN0-2141 instance frame in SYNELBASE[M] @ #x10014888f32>
+                           #<3-OXOACYL-ACP-SYNTH-BASE-RXN instance frame in SYNELBASE[M] @ #x10014a05c92> #<3-OXOACYL-ACP-SYNTH-RXN instance frame in SYNELBASE[M] @ #x10014881552>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoacyl-(acyl-carrier-protein) synthase II"
+                :DATE 3620924493)
+ #S(FILLED-HOLE :RXN RXN-9527
+                :HIT #<SYNPCC7942_0537 instance frame in SYNELBASE[M] @ #x1001d43af22>
+                :PROB 0.9986811
+                :RXN-NAME "3-oxo-decanoyl-[acyl-carrier protein] synthase"
+                :RXN-EC "2.3.1.41"
+                :PWY-LIST (#<PWY-5971 instance frame in SYNELBASE[M] @ #x100149a8032>)
+                :ALL-RXNS (#<MALONYL-ACPDECARBOX-RXN instance frame in SYNELBASE[M] @ #x100149dbed2> #<RXN-9516 instance frame in SYNELBASE[M] @ #x10014a343a2> #<RXN-9523 instance frame in SYNELBASE[M] @ #x100149dee72>
+                           #<RXN-9527 instance frame in SYNELBASE[M] @ #x100148fb142> #<RXN-9531 instance frame in SYNELBASE[M] @ #x10014885c92> #<RXN-9535 instance frame in SYNELBASE[M] @ #x10014a2b372>
+                           #<RXN-9539 instance frame in SYNELBASE[M] @ #x1001496ea92> #<RXN-11479 instance frame in SYNELBASE[M] @ #x10014a3b212> #<RXN0-2141 instance frame in SYNELBASE[M] @ #x10014888f32>
+                           #<3-OXOACYL-ACP-SYNTH-BASE-RXN instance frame in SYNELBASE[M] @ #x10014a05c92> #<3-OXOACYL-ACP-SYNTH-RXN instance frame in SYNELBASE[M] @ #x10014881552>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoacyl-(acyl-carrier-protein) synthase II"
+                :DATE 3620924493)
+ #S(FILLED-HOLE :RXN RXN-9516
+                :HIT #<SYNPCC7942_0537 instance frame in SYNELBASE[M] @ #x1001d43af22>
+                :PROB 0.9986811
+                :RXN-NAME "3-oxo-hexanoyl-[acyl-carrier protein] synthase"
+                :RXN-EC "2.3.1.41"
+                :PWY-LIST (#<PWY-5971 instance frame in SYNELBASE[M] @ #x100149a8032>)
+                :ALL-RXNS (#<MALONYL-ACPDECARBOX-RXN instance frame in SYNELBASE[M] @ #x100149dbed2> #<RXN-9516 instance frame in SYNELBASE[M] @ #x10014a343a2> #<RXN-9523 instance frame in SYNELBASE[M] @ #x100149dee72>
+                           #<RXN-9527 instance frame in SYNELBASE[M] @ #x100148fb142> #<RXN-9531 instance frame in SYNELBASE[M] @ #x10014885c92> #<RXN-9535 instance frame in SYNELBASE[M] @ #x10014a2b372>
+                           #<RXN-9539 instance frame in SYNELBASE[M] @ #x1001496ea92> #<RXN-11479 instance frame in SYNELBASE[M] @ #x10014a3b212> #<RXN0-2141 instance frame in SYNELBASE[M] @ #x10014888f32>
+                           #<3-OXOACYL-ACP-SYNTH-BASE-RXN instance frame in SYNELBASE[M] @ #x10014a05c92> #<3-OXOACYL-ACP-SYNTH-RXN instance frame in SYNELBASE[M] @ #x10014881552>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoacyl-(acyl-carrier-protein) synthase II"
+                :DATE 3620924494)
+ #S(FILLED-HOLE :RXN RXN0-2141
+                :HIT #<SYNPCC7942_0537 instance frame in SYNELBASE[M] @ #x1001d43af22>
+                :PROB 0.9982799
+                :RXN-NAME NIL
+                :RXN-EC "2.3.1.41"
+                :PWY-LIST (#<PWY0-862 instance frame in SYNELBASE[M] @ #x100149c29a2>)
+                :ALL-RXNS (#<MALONYL-ACPDECARBOX-RXN instance frame in SYNELBASE[M] @ #x100149dbed2> #<RXN-9516 instance frame in SYNELBASE[M] @ #x10014a343a2> #<RXN-9523 instance frame in SYNELBASE[M] @ #x100149dee72>
+                           #<RXN-9527 instance frame in SYNELBASE[M] @ #x100148fb142> #<RXN-9531 instance frame in SYNELBASE[M] @ #x10014885c92> #<RXN-9535 instance frame in SYNELBASE[M] @ #x10014a2b372>
+                           #<RXN-9539 instance frame in SYNELBASE[M] @ #x1001496ea92> #<RXN-11479 instance frame in SYNELBASE[M] @ #x10014a3b212> #<RXN0-2141 instance frame in SYNELBASE[M] @ #x10014888f32>
+                           #<3-OXOACYL-ACP-SYNTH-BASE-RXN instance frame in SYNELBASE[M] @ #x10014a05c92> #<3-OXOACYL-ACP-SYNTH-RXN instance frame in SYNELBASE[M] @ #x10014881552>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoacyl-(acyl-carrier-protein) synthase II"
+                :DATE 3417893549)
+ #S(FILLED-HOLE :RXN RXN-11479
+                :HIT #<SYNPCC7942_0537 instance frame in SYNELBASE[M] @ #x1001d43af22>
+                :PROB 0.9999709
+                :RXN-NAME NIL
+                :RXN-EC "2.3.1.41"
+                :PWY-LIST (#<PWY-6519 instance frame in SYNELBASE[M] @ #x100148e2152>)
+                :ALL-RXNS (#<MALONYL-ACPDECARBOX-RXN instance frame in SYNELBASE[M] @ #x100149dbed2> #<RXN-9516 instance frame in SYNELBASE[M] @ #x10014a343a2> #<RXN-9523 instance frame in SYNELBASE[M] @ #x100149dee72>
+                           #<RXN-9527 instance frame in SYNELBASE[M] @ #x100148fb142> #<RXN-9531 instance frame in SYNELBASE[M] @ #x10014885c92> #<RXN-9535 instance frame in SYNELBASE[M] @ #x10014a2b372>
+                           #<RXN-9539 instance frame in SYNELBASE[M] @ #x1001496ea92> #<RXN-11479 instance frame in SYNELBASE[M] @ #x10014a3b212> #<RXN0-2141 instance frame in SYNELBASE[M] @ #x10014888f32>
+                           #<3-OXOACYL-ACP-SYNTH-BASE-RXN instance frame in SYNELBASE[M] @ #x10014a05c92> #<3-OXOACYL-ACP-SYNTH-RXN instance frame in SYNELBASE[M] @ #x10014881552>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoacyl-(acyl-carrier-protein) synthase II"
+                :DATE 3620924488)
+ #S(FILLED-HOLE :RXN RXN-9531
+                :HIT #<SYNPCC7942_0537 instance frame in SYNELBASE[M] @ #x1001d43af22>
+                :PROB 0.9986811
+                :RXN-NAME "3-oxo-dodecanoyl-[acyl-carrier protein] synthase"
+                :RXN-EC "2.3.1.41"
+                :PWY-LIST (#<PWY-5971 instance frame in SYNELBASE[M] @ #x100149a8032>)
+                :ALL-RXNS (#<MALONYL-ACPDECARBOX-RXN instance frame in SYNELBASE[M] @ #x100149dbed2> #<RXN-9516 instance frame in SYNELBASE[M] @ #x10014a343a2> #<RXN-9523 instance frame in SYNELBASE[M] @ #x100149dee72>
+                           #<RXN-9527 instance frame in SYNELBASE[M] @ #x100148fb142> #<RXN-9531 instance frame in SYNELBASE[M] @ #x10014885c92> #<RXN-9535 instance frame in SYNELBASE[M] @ #x10014a2b372>
+                           #<RXN-9539 instance frame in SYNELBASE[M] @ #x1001496ea92> #<RXN-11479 instance frame in SYNELBASE[M] @ #x10014a3b212> #<RXN0-2141 instance frame in SYNELBASE[M] @ #x10014888f32>
+                           #<3-OXOACYL-ACP-SYNTH-BASE-RXN instance frame in SYNELBASE[M] @ #x10014a05c92> #<3-OXOACYL-ACP-SYNTH-RXN instance frame in SYNELBASE[M] @ #x10014881552>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoacyl-(acyl-carrier-protein) synthase II"
+                :DATE 3620924493)
+ #S(FILLED-HOLE :RXN RXN-9535
+                :HIT #<SYNPCC7942_0537 instance frame in SYNELBASE[M] @ #x1001d43af22>
+                :PROB 0.9986811
+                :RXN-NAME "&beta;-ketoacyl-acyl-carrier-protein synthase I"
+                :RXN-EC "2.3.1.41/2.3.1.85/2.3.1.86"
+                :PWY-LIST (#<PWY-5971 instance frame in SYNELBASE[M] @ #x100149a8032>)
+                :ALL-RXNS (#<MALONYL-ACPDECARBOX-RXN instance frame in SYNELBASE[M] @ #x100149dbed2> #<RXN-9516 instance frame in SYNELBASE[M] @ #x10014a343a2> #<RXN-9523 instance frame in SYNELBASE[M] @ #x100149dee72>
+                           #<RXN-9527 instance frame in SYNELBASE[M] @ #x100148fb142> #<RXN-9531 instance frame in SYNELBASE[M] @ #x10014885c92> #<RXN-9535 instance frame in SYNELBASE[M] @ #x10014a2b372>
+                           #<RXN-9539 instance frame in SYNELBASE[M] @ #x1001496ea92> #<RXN-11479 instance frame in SYNELBASE[M] @ #x10014a3b212> #<RXN0-2141 instance frame in SYNELBASE[M] @ #x10014888f32>
+                           #<3-OXOACYL-ACP-SYNTH-BASE-RXN instance frame in SYNELBASE[M] @ #x10014a05c92> #<3-OXOACYL-ACP-SYNTH-RXN instance frame in SYNELBASE[M] @ #x10014881552>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoacyl-(acyl-carrier-protein) synthase II"
+                :DATE 3620924493)
+ #S(FILLED-HOLE :RXN RXN-9523
+                :HIT #<SYNPCC7942_0537 instance frame in SYNELBASE[M] @ #x1001d43af22>
+                :PROB 0.9986811
+                :RXN-NAME "3-oxo-octanoyl-[acyl-carrier protein] synthase"
+                :RXN-EC "2.3.1.41"
+                :PWY-LIST (#<PWY-5971 instance frame in SYNELBASE[M] @ #x100149a8032>)
+                :ALL-RXNS (#<MALONYL-ACPDECARBOX-RXN instance frame in SYNELBASE[M] @ #x100149dbed2> #<RXN-9516 instance frame in SYNELBASE[M] @ #x10014a343a2> #<RXN-9523 instance frame in SYNELBASE[M] @ #x100149dee72>
+                           #<RXN-9527 instance frame in SYNELBASE[M] @ #x100148fb142> #<RXN-9531 instance frame in SYNELBASE[M] @ #x10014885c92> #<RXN-9535 instance frame in SYNELBASE[M] @ #x10014a2b372>
+                           #<RXN-9539 instance frame in SYNELBASE[M] @ #x1001496ea92> #<RXN-11479 instance frame in SYNELBASE[M] @ #x10014a3b212> #<RXN0-2141 instance frame in SYNELBASE[M] @ #x10014888f32>
+                           #<3-OXOACYL-ACP-SYNTH-BASE-RXN instance frame in SYNELBASE[M] @ #x10014a05c92> #<3-OXOACYL-ACP-SYNTH-RXN instance frame in SYNELBASE[M] @ #x10014881552>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoacyl-(acyl-carrier-protein) synthase II"
+                :DATE 3620924493)
+ #S(FILLED-HOLE :RXN ENOYL-COA-HYDRAT-RXN
+                :HIT #<SYNPCC7942_0597 instance frame in SYNELBASE[M] @ #x1001d43d022>
+                :PROB 0.9942889
+                :RXN-NAME NIL
+                :RXN-EC "4.2.1.17"
+                :PWY-LIST (#<FAO-PWY instance frame in SYNELBASE[M] @ #x1001497e212>)
+                :ALL-RXNS (#<ENOYL-COA-HYDRAT-RXN instance frame in SYNELBASE[M] @ #x100148dbf12> #<RXN-13616 instance frame in SYNELBASE[M] @ #x10014929132> #<RXN-16135 instance frame in SYNELBASE[M] @ #x1001499aec2>
+                           #<RXN-11667 instance frame in SYNELBASE[M] @ #x10014a19792> #<NAPHTHOATE-SYN-RXN instance frame in SYNELBASE[M] @ #x100149d6ef2>)
+                :REPLACED? NIL
+                :FUNCTIONS "naphthoate synthase"
+                :DATE 3417893552)
+ #S(FILLED-HOLE :RXN PGLUCONDEHYDRAT-RXN
+                :HIT #<SYNPCC7942_0626 instance frame in SYNELBASE[M] @ #x1001d43df22>
+                :PROB 0.9982799
+                :RXN-NAME NIL
+                :RXN-EC "4.2.1.12"
+                :PWY-LIST (#<ENTNER-DOUDOROFF-PWY instance frame in SYNELBASE[M] @ #x100148d7532>)
+                :ALL-RXNS (#<RXN-11717 instance frame in SYNELBASE[M] @ #x10014915482> #<PGLUCONDEHYDRAT-RXN instance frame in SYNELBASE[M] @ #x1001496c0c2> #<DIHYDROXYISOVALDEHYDRAT-RXN instance frame in SYNELBASE[M] @ #x1001495cdf2>
+                           #<DIHYDROXYMETVALDEHYDRAT-RXN instance frame in SYNELBASE[M] @ #x10014893252>)
+                :REPLACED? NIL
+                :FUNCTIONS "dihydroxy-acid dehydratase"
+                :DATE 3417893548)
+ #S(FILLED-HOLE :RXN SPERMINE-SYNTHASE-RXN
+                :HIT #<SYNPCC7942_0628 instance frame in SYNELBASE[M] @ #x1001d43e0a2>
+                :PROB 0.99247813
+                :RXN-NAME NIL
+                :RXN-EC "2.5.1.22"
+                :PWY-LIST (#<ARGSPECAT-PWY instance frame in SYNELBASE[M] @ #x100149a0b32>)
+                :ALL-RXNS (#<SPERMINE-SYNTHASE-RXN instance frame in SYNELBASE[M] @ #x1001495ea42> #<SPERMIDINESYN-RXN instance frame in SYNELBASE[M] @ #x100148f5d12>)
+                :REPLACED? NIL
+                :FUNCTIONS "spermidine synthase"
+                :DATE 3417893584)
+ #S(FILLED-HOLE :RXN RXN0-2142
+                :HIT #<SYNPCC7942_0684 instance frame in SYNELBASE[M] @ #x1001d43fd22>
+                :PROB 0.99933034
+                :RXN-NAME NIL
+                :RXN-EC "1.1.1.100"
+                :PWY-LIST (#<PWY0-862 instance frame in SYNELBASE[M] @ #x100149c29a2>)
+                :ALL-RXNS (#<RXN-9514 instance frame in SYNELBASE[M] @ #x10014960cf2> #<RXN0-2142 instance frame in SYNELBASE[M] @ #x10014a7c732> #<3-OXOACYL-ACP-REDUCT-RXN instance frame in SYNELBASE[M] @ #x10014a62f02>
+                           #<RXN-9532 instance frame in SYNELBASE[M] @ #x100149e5ef2> #<RXN-9524 instance frame in SYNELBASE[M] @ #x10014903212> #<RXN-9536 instance frame in SYNELBASE[M] @ #x10014976f82>
+                           #<RXN-10659 instance frame in SYNELBASE[M] @ #x100148fa032> #<RXN-9556 instance frame in SYNELBASE[M] @ #x100148936a2> #<RXN-10060 instance frame in SYNELBASE[M] @ #x10014a77e42>
+                           #<RXN-13008 instance frame in SYNELBASE[M] @ #x10014951ff2> #<RXN1G-508 instance frame in SYNELBASE[M] @ #x100148afcc2> #<RXN-11480 instance frame in SYNELBASE[M] @ #x100148c85c2>
+                           #<RXN-9633 instance frame in SYNELBASE[M] @ #x100148889c2> #<RXN-9540 instance frame in SYNELBASE[M] @ #x100148db672> #<RXN1G-157 instance frame in SYNELBASE[M] @ #x100148d41d2>
+                           #<RXN1G-469 instance frame in SYNELBASE[M] @ #x100149d8f62> #<RXN-9518 instance frame in SYNELBASE[M] @ #x100148a5d92> #<RXN-11476 instance frame in SYNELBASE[M] @ #x1001486b442>
+                           #<RXN-9552 instance frame in SYNELBASE[M] @ #x1001494ef92> #<RXN-9528 instance frame in SYNELBASE[M] @ #x100148490c2> #<RXN1G-349 instance frame in SYNELBASE[M] @ #x10014903182>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoacyl-(acyl-carrier-protein) reductase"
+                :DATE 3417893550)
+ #S(FILLED-HOLE :RXN DUTP-PYROP-RXN
+                :HIT #<SYNPCC7942_0717 instance frame in SYNELBASE[M] @ #x1001d440ea2>
+                :PROB 0.99894845
+                :RXN-NAME NIL
+                :RXN-EC "3.6.1.19/3.6.1.23"
+                :PWY-LIST (#<PWY0-166 instance frame in SYNELBASE[M] @ #x10014a3e0c2> #<PWY-6545 instance frame in SYNELBASE[M] @ #x100148829c2>)
+                :ALL-RXNS (#<RXN-14118 instance frame in SYNELBASE[M] @ #x10014900272> #<DUTP-PYROP-RXN instance frame in SYNELBASE[M] @ #x100148fc9d2> #<DCTP-DEAM-RXN instance frame in SYNELBASE[M] @ #x100149cfd22>)
+                :REPLACED? NIL
+                :FUNCTIONS "Deoxycytidine triphosphate deaminase"
+                :DATE 3417893547)
+ #S(FILLED-HOLE :RXN FORMATETHFLIG-RXN
+                :HIT #<SYNPCC7942_0777 instance frame in SYNELBASE[M] @ #x1001d442ca2>
+                :PROB 0.9981188
+                :RXN-NAME NIL
+                :RXN-EC "6.3.4.3"
+                :PWY-LIST (#<PWY-1722 instance frame in SYNELBASE[M] @ #x100149305a2> #<PWY-2201 instance frame in SYNELBASE[M] @ #x100149ed092> #<PWY-2161 instance frame in SYNELBASE[M] @ #x10014884f12>)
+                :ALL-RXNS (#<FORMATETHFLIG-RXN instance frame in SYNELBASE[M] @ #x10014a4f132> #<METHENYLTHFCYCLOHYDRO-RXN instance frame in SYNELBASE[M] @ #x100149f35d2>
+                           #<METHYLENETHFDEHYDROG-NADP-RXN instance frame in SYNELBASE[M] @ #x10014a6a3a2>)
+                :REPLACED? NIL
+                :FUNCTIONS "Methylenetetrahydrofolate dehydrogenase (NADP+)"
+                :DATE 3620924491)
+ #S(FILLED-HOLE :RXN RXN-13268
+                :HIT #<SYNPCC7942_0918 instance frame in SYNELBASE[M] @ #x1001d4473a2>
+                :PROB 0.9999961
+                :RXN-NAME "stearate&mdash;[acyl-carrier-protein] ligase"
+                :RXN-EC "6.2.1.20"
+                :PWY-LIST (#<PWY-6622 instance frame in SYNELBASE[M] @ #x10014852b72>)
+                :ALL-RXNS (#<RXN-13268 instance frame in SYNELBASE[M] @ #x100148f8e02> #<ACYLACPSYNTH-RXN instance frame in SYNELBASE[M] @ #x10014856aa2> #<LINOLENOYL-RXN instance frame in SYNELBASE[M] @ #x100148dae62>
+                           #<RXN-12978 instance frame in SYNELBASE[M] @ #x10014a08452> #<RXN-13290 instance frame in SYNELBASE[M] @ #x100148e1c12> #<RXN-9644 instance frame in SYNELBASE[M] @ #x100149b1d52>
+                           #<RXN-9673 instance frame in SYNELBASE[M] @ #x10014948cc2> #<RXN66-480 instance frame in SYNELBASE[M] @ #x10014948482> #<RXN-7904 instance frame in SYNELBASE[M] @ #x1001497ef32>
+                           #<RXN-16389 instance frame in SYNELBASE[M] @ #x100148eae22> #<ACYLCOASYN-RXN instance frame in SYNELBASE[M] @ #x100149f7412> #<RXN-13614 instance frame in SYNELBASE[M] @ #x10014970292>
+                           #<RXN-16380 instance frame in SYNELBASE[M] @ #x10014879b42> #<RXN-9623 instance frame in SYNELBASE[M] @ #x1001490ed92> #<RXN-16393 instance frame in SYNELBASE[M] @ #x100149f1ec2>
+                           #<RXN66-484 instance frame in SYNELBASE[M] @ #x100149ec7f2> #<RXN66-483 instance frame in SYNELBASE[M] @ #x100149876f2> #<RXN66-469 instance frame in SYNELBASE[M] @ #x100149384f2>
+                           #<RXN66-477 instance frame in SYNELBASE[M] @ #x1001485aee2> #<RXN66-474 instance frame in SYNELBASE[M] @ #x100148b3b62> #<R223-RXN instance frame in SYNELBASE[M] @ #x10014a6bb42>)
+                :REPLACED? NIL
+                :FUNCTIONS "long-chain-fatty-acid CoA ligase"
+                :DATE 3620924491)
+ #S(FILLED-HOLE :RXN ACYLACPSYNTH-RXN
+                :HIT #<SYNPCC7942_0918 instance frame in SYNELBASE[M] @ #x1001d4473a2>
+                :PROB 0.9999961
+                :RXN-NAME NIL
+                :RXN-EC "6.2.1.20"
+                :PWY-LIST (#<PWY-7032 instance frame in SYNELBASE[M] @ #x10014a47242>)
+                :ALL-RXNS (#<RXN-13268 instance frame in SYNELBASE[M] @ #x100148f8e02> #<ACYLACPSYNTH-RXN instance frame in SYNELBASE[M] @ #x10014856aa2> #<LINOLENOYL-RXN instance frame in SYNELBASE[M] @ #x100148dae62>
+                           #<RXN-12978 instance frame in SYNELBASE[M] @ #x10014a08452> #<RXN-13290 instance frame in SYNELBASE[M] @ #x100148e1c12> #<RXN-9644 instance frame in SYNELBASE[M] @ #x100149b1d52>
+                           #<RXN-9673 instance frame in SYNELBASE[M] @ #x10014948cc2> #<RXN66-480 instance frame in SYNELBASE[M] @ #x10014948482> #<RXN-7904 instance frame in SYNELBASE[M] @ #x1001497ef32>
+                           #<RXN-16389 instance frame in SYNELBASE[M] @ #x100148eae22> #<ACYLCOASYN-RXN instance frame in SYNELBASE[M] @ #x100149f7412> #<RXN-13614 instance frame in SYNELBASE[M] @ #x10014970292>
+                           #<RXN-16380 instance frame in SYNELBASE[M] @ #x10014879b42> #<RXN-9623 instance frame in SYNELBASE[M] @ #x1001490ed92> #<RXN-16393 instance frame in SYNELBASE[M] @ #x100149f1ec2>
+                           #<RXN66-484 instance frame in SYNELBASE[M] @ #x100149ec7f2> #<RXN66-483 instance frame in SYNELBASE[M] @ #x100149876f2> #<RXN66-469 instance frame in SYNELBASE[M] @ #x100149384f2>
+                           #<RXN66-477 instance frame in SYNELBASE[M] @ #x1001485aee2> #<RXN66-474 instance frame in SYNELBASE[M] @ #x100148b3b62> #<R223-RXN instance frame in SYNELBASE[M] @ #x10014a6bb42>)
+                :REPLACED? NIL
+                :FUNCTIONS "long-chain-fatty-acid CoA ligase"
+                :DATE 3620924490)
+ #S(FILLED-HOLE :RXN RXN-11477
+                :HIT #<SYNPCC7942_0930 instance frame in SYNELBASE[M] @ #x1001d6a01d2>
+                :PROB 0.99990183
+                :RXN-NAME NIL
+                :RXN-EC "4.2.1.59"
+                :PWY-LIST (#<PWY-6519 instance frame in SYNELBASE[M] @ #x100148e2152>)
+                :ALL-RXNS (#<5.3.3.14-RXN instance frame in SYNELBASE[M] @ #x100149928e2> #<RXN-11481 instance frame in SYNELBASE[M] @ #x100149e19f2> #<RXN-11477 instance frame in SYNELBASE[M] @ #x10014a12bc2>
+                           #<3-HYDROXYDECANOYL-ACP-DEHYDR-RXN instance frame in SYNELBASE[M] @ #x10014a4b9b2> #<RXN-9533 instance frame in SYNELBASE[M] @ #x10014957ab2> #<4.2.1.59-RXN instance frame in SYNELBASE[M] @ #x100148c74e2>
+                           #<RXN-9537 instance frame in SYNELBASE[M] @ #x1001489c792> #<4.2.1.58-RXN instance frame in SYNELBASE[M] @ #x100149ca802> #<RXN1G-517 instance frame in SYNELBASE[M] @ #x100148ab372>
+                           #<RXN-9634 instance frame in SYNELBASE[M] @ #x10014a0f772> #<4.2.1.61-RXN instance frame in SYNELBASE[M] @ #x1001488e482> #<RXN1G-363 instance frame in SYNELBASE[M] @ #x1001493bd32>
+                           #<RXN-9520 instance frame in SYNELBASE[M] @ #x10014998972> #<RXN-9655 instance frame in SYNELBASE[M] @ #x1001489eda2> #<RXN1G-320 instance frame in SYNELBASE[M] @ #x10014890c42>
+                           #<RXN0-2144 instance frame in SYNELBASE[M] @ #x10014893b52>)
+                :REPLACED? NIL
+                :FUNCTIONS "beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ"
+                :DATE 3620924487)
+ #S(FILLED-HOLE :RXN RXN-11481
+                :HIT #<SYNPCC7942_0930 instance frame in SYNELBASE[M] @ #x1001d6a01d2>
+                :PROB 0.99990183
+                :RXN-NAME NIL
+                :RXN-EC "4.2.1.59"
+                :PWY-LIST (#<PWY-6519 instance frame in SYNELBASE[M] @ #x100148e2152>)
+                :ALL-RXNS (#<5.3.3.14-RXN instance frame in SYNELBASE[M] @ #x100149928e2> #<RXN-11481 instance frame in SYNELBASE[M] @ #x100149e19f2> #<RXN-11477 instance frame in SYNELBASE[M] @ #x10014a12bc2>
+                           #<3-HYDROXYDECANOYL-ACP-DEHYDR-RXN instance frame in SYNELBASE[M] @ #x10014a4b9b2> #<RXN-9533 instance frame in SYNELBASE[M] @ #x10014957ab2> #<4.2.1.59-RXN instance frame in SYNELBASE[M] @ #x100148c74e2>
+                           #<RXN-9537 instance frame in SYNELBASE[M] @ #x1001489c792> #<4.2.1.58-RXN instance frame in SYNELBASE[M] @ #x100149ca802> #<RXN1G-517 instance frame in SYNELBASE[M] @ #x100148ab372>
+                           #<RXN-9634 instance frame in SYNELBASE[M] @ #x10014a0f772> #<4.2.1.61-RXN instance frame in SYNELBASE[M] @ #x1001488e482> #<RXN1G-363 instance frame in SYNELBASE[M] @ #x1001493bd32>
+                           #<RXN-9520 instance frame in SYNELBASE[M] @ #x10014998972> #<RXN-9655 instance frame in SYNELBASE[M] @ #x1001489eda2> #<RXN1G-320 instance frame in SYNELBASE[M] @ #x10014890c42>
+                           #<RXN0-2144 instance frame in SYNELBASE[M] @ #x10014893b52>)
+                :REPLACED? NIL
+                :FUNCTIONS "beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ"
+                :DATE 3620924488)
+ #S(FILLED-HOLE :RXN 5.3.3.14-RXN
+                :HIT #<SYNPCC7942_0930 instance frame in SYNELBASE[M] @ #x1001d6a01d2>
+                :PROB 0.95437354
+                :RXN-NAME NIL
+                :RXN-EC "5.3.3.14"
+                :PWY-LIST (#<PWY0-862 instance frame in SYNELBASE[M] @ #x100149c29a2>)
+                :ALL-RXNS (#<5.3.3.14-RXN instance frame in SYNELBASE[M] @ #x100149928e2> #<RXN-11481 instance frame in SYNELBASE[M] @ #x100149e19f2> #<RXN-11477 instance frame in SYNELBASE[M] @ #x10014a12bc2>
+                           #<3-HYDROXYDECANOYL-ACP-DEHYDR-RXN instance frame in SYNELBASE[M] @ #x10014a4b9b2> #<RXN-9533 instance frame in SYNELBASE[M] @ #x10014957ab2> #<4.2.1.59-RXN instance frame in SYNELBASE[M] @ #x100148c74e2>
+                           #<RXN-9537 instance frame in SYNELBASE[M] @ #x1001489c792> #<4.2.1.58-RXN instance frame in SYNELBASE[M] @ #x100149ca802> #<RXN1G-517 instance frame in SYNELBASE[M] @ #x100148ab372>
+                           #<RXN-9634 instance frame in SYNELBASE[M] @ #x10014a0f772> #<4.2.1.61-RXN instance frame in SYNELBASE[M] @ #x1001488e482> #<RXN1G-363 instance frame in SYNELBASE[M] @ #x1001493bd32>
+                           #<RXN-9520 instance frame in SYNELBASE[M] @ #x10014998972> #<RXN-9655 instance frame in SYNELBASE[M] @ #x1001489eda2> #<RXN1G-320 instance frame in SYNELBASE[M] @ #x10014890c42>
+                           #<RXN0-2144 instance frame in SYNELBASE[M] @ #x10014893b52>)
+                :REPLACED? NIL
+                :FUNCTIONS "beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ"
+                :DATE 3620924488)
+ #S(FILLED-HOLE :RXN RXN-5184
+                :HIT #<SYNPCC7942_0943 instance frame in SYNELBASE[M] @ #x1001d6a0852>
+                :PROB 0.99933034
+                :RXN-NAME NIL
+                :RXN-EC "2.6.1.-"
+                :PWY-LIST NIL
+                :ALL-RXNS (#<RXN-15007 instance frame in SYNELBASE[M] @ #x10014a70372> #<ORNITHINE--OXO-ACID-AMINOTRANSFERASE-RXN instance frame in SYNELBASE[M] @ #x10014972d22>
+                           #<ORNITHINE-GLU-AMINOTRANSFORASE-RXN instance frame in SYNELBASE[M] @ #x100149bc552> #<RXN-5184 instance frame in SYNELBASE[M] @ #x1001490a262>
+                           #<SUCCORNTRANSAM-RXN instance frame in SYNELBASE[M] @ #x1001485a2e2> #<ACETYLORNTRANSAM-RXN instance frame in SYNELBASE[M] @ #x10014a52102>)
+                :REPLACED? NIL
+                :FUNCTIONS "acetylornithine aminotransferase"
+                :DATE 3417893560)
+ #S(FILLED-HOLE :RXN UDPMANNACADEHYDROG-RXN
+                :HIT #<SYNPCC7942_0973 instance frame in SYNELBASE[M] @ #x1001d6a1752>
+                :PROB 0.9996712
+                :RXN-NAME "UDP-N-acetyl-D-mannosamine dehydrogenase"
+                :RXN-EC "1.1.1.336"
+                :PWY-LIST (#<PWY-7335 instance frame in SYNELBASE[M] @ #x10014a31882>)
+                :ALL-RXNS (#<UDPMANNACADEHYDROG-RXN instance frame in SYNELBASE[M] @ #x100149abff2> #<UGD-RXN instance frame in SYNELBASE[M] @ #x100148d90f2>)
+                :REPLACED? NIL
+                :FUNCTIONS "UDP-glucose 6-dehydrogenase"
+                :DATE 3620924497)
+ #S(FILLED-HOLE :RXN O-SUCCINYLBENZOATE-COA-LIG-RXN
+                :HIT #<SYNPCC7942_1021 instance frame in SYNELBASE[M] @ #x1001d6a2fd2>
+                :PROB NIL
+                :RXN-NAME NIL
+                :RXN-EC "6.2.1.26"
+                :PWY-LIST (#<PWY-5837 instance frame in SYNELBASE[M] @ #x100149ceb52>)
+                :ALL-RXNS (#<O-SUCCINYLBENZOATE-COA-LIG-RXN instance frame in SYNELBASE[M] @ #x1001487acb2>)
+                :REPLACED? NIL
+                :FUNCTIONS "O-succinylbenzoic acid-CoA ligase"
+                :DATE NIL)
+ #S(FILLED-HOLE :RXN THIAZOLSYN3-RXN
+                :HIT #<SYNPCC7942_1057 instance frame in SYNELBASE[M] @ #x1001d6a41d2>
+                :PROB 0.99963653
+                :RXN-NAME NIL
+                :RXN-EC "2.7.1.50"
+                :PWY-LIST NIL
+                :ALL-RXNS (#<RXN-12610 instance frame in SYNELBASE[M] @ #x10014a76a92> #<RXN-12611 instance frame in SYNELBASE[M] @ #x10014955b92> #<THIAZOLSYN3-RXN instance frame in SYNELBASE[M] @ #x100148ad712>
+                           #<THI-P-SYN-RXN instance frame in SYNELBASE[M] @ #x10014a786e2>)
+                :REPLACED? NIL
+                :FUNCTIONS "thiamine-phosphate pyrophosphorylase"
+                :DATE 3417893594)
+ #S(FILLED-HOLE :RXN RXN0-4621
+                :HIT #<SYNPCC7942_1093 instance frame in SYNELBASE[M] @ #x1001d6a53d2>
+                :PROB 0.99992526
+                :RXN-NAME NIL
+                :RXN-EC "2.7.1.170"
+                :PWY-LIST (#<PWY0-1261 instance frame in SYNELBASE[M] @ #x100149c7202>)
+                :ALL-RXNS (#<RXN0-4621 instance frame in SYNELBASE[M] @ #x10014955b62>)
+                :REPLACED? NIL
+                :FUNCTIONS "conserved hypothetical protein"
+                :DATE 3620924490)
+ #S(FILLED-HOLE :RXN RXN-7569
+                :HIT #<SYNPCC7942_1099 instance frame in SYNELBASE[M] @ #x1001d6a56d2>
+                :PROB 0.99933034
+                :RXN-NAME "demethylphylloquinol methyltransferase"
+                :RXN-EC "2.1.1.163"
+                :PWY-LIST (#<PWY-5027 instance frame in SYNELBASE[M] @ #x100149fab92>)
+                :ALL-RXNS (#<RXN-7569 instance frame in SYNELBASE[M] @ #x100148f16f2>)
+                :REPLACED? NIL
+                :FUNCTIONS "2-phytyl-1,4-naphtoquinone methyltransferase"
+                :DATE 3417893572)
+ #S(FILLED-HOLE :RXN RXN-8344
+                :HIT #<SYNPCC7942_1286 instance frame in SYNELBASE[M] @ #x1001d6ab5d2>
+                :PROB 0.99963653
+                :RXN-NAME NIL
+                :RXN-EC "2.7.7.75"
+                :PWY-LIST (#<PWY-6823 instance frame in SYNELBASE[M] @ #x1001e4e3c32>)
+                :ALL-RXNS (#<RXN-8344 instance frame in SYNELBASE[M] @ #x10014a336b2> #<RXN-8348 instance frame in SYNELBASE[M] @ #x10014977612>)
+                :REPLACED? NIL
+                :FUNCTIONS "molybdopterin biosynthesis protein moeA"
+                :DATE 3620924492)
+ #S(FILLED-HOLE :RXN MALIC-NADP-RXN
+                :HIT #<SYNPCC7942_1297 instance frame in SYNELBASE[M] @ #x1001d6abb52>
+                :PROB 0.99991035
+                :RXN-NAME NIL
+                :RXN-EC "1.1.1.40"
+                :PWY-LIST (#<GLUCONEO-PWY instance frame in SYNELBASE[M] @ #x100149451b2>)
+                :ALL-RXNS (#<MALIC-NADP-RXN instance frame in SYNELBASE[M] @ #x100148b1d02> #<OXALODECARB-RXN instance frame in SYNELBASE[M] @ #x10014a36802> #<1.1.1.39-RXN instance frame in SYNELBASE[M] @ #x10014886022>)
+                :REPLACED? NIL
+                :FUNCTIONS "Malate dehydrogenase (oxaloacetate decarboxylating)"
+                :DATE 3620924491)
+ #S(FILLED-HOLE :RXN 5-FORMYL-THF-CYCLO-LIGASE-RXN
+                :HIT #<SYNPCC7942_1300 instance frame in SYNELBASE[M] @ #x1001d6abcd2>
+                :PROB 0.944395
+                :RXN-NAME NIL
+                :RXN-EC "6.3.3.2"
+                :PWY-LIST (#<1CMET2-PWY instance frame in SYNELBASE[M] @ #x100149ec4f2> #<PWY-2201 instance frame in SYNELBASE[M] @ #x100149ed092>)
+                :ALL-RXNS (#<5-FORMYL-THF-CYCLO-LIGASE-RXN instance frame in SYNELBASE[M] @ #x10014919742>)
+                :REPLACED? NIL
+                :FUNCTIONS "conserved hypothetical protein"
+                :DATE 3620924491)
+ #S(FILLED-HOLE :RXN 1.5.1.20-RXN
+                :HIT #<SYNPCC7942_1309 instance frame in SYNELBASE[M] @ #x1001d6ac152>
+                :PROB 0.944395
+                :RXN-NAME NIL
+                :RXN-EC "1.5.1.20"
+                :PWY-LIST (#<1CMET2-PWY instance frame in SYNELBASE[M] @ #x100149ec4f2> #<PWY-2201 instance frame in SYNELBASE[M] @ #x100149ed092>)
+                :ALL-RXNS (#<1.5.1.20-RXN instance frame in SYNELBASE[M] @ #x10014926a32>)
+                :REPLACED? NIL
+                :FUNCTIONS "methylenetetrahydrofolate reductase"
+                :DATE 3620924491)
+ #S(FILLED-HOLE :RXN ADCLY-RXN
+                :HIT #<SYNPCC7942_1335 instance frame in SYNELBASE[M] @ #x1001d6ace52>
+                :PROB 0.9995452
+                :RXN-NAME NIL
+                :RXN-EC "4.1.3.38"
+                :PWY-LIST (#<PWY-6543 instance frame in SYNELBASE[M] @ #x10014a111b2>)
+                :ALL-RXNS (#<ADCLY-RXN instance frame in SYNELBASE[M] @ #x10014a534e2> #<BRANCHED-CHAINAMINOTRANSFERILEU-RXN instance frame in SYNELBASE[M] @ #x10014983552>
+                           #<BRANCHED-CHAINAMINOTRANSFERLEU-RXN instance frame in SYNELBASE[M] @ #x10014986672> #<BRANCHED-CHAINAMINOTRANSFERVAL-RXN instance frame in SYNELBASE[M] @ #x10014872012>)
+                :REPLACED? NIL
+                :FUNCTIONS "probable branched-chain amino acid aminotransferase"
+                :DATE 3620924487)
+ #S(FILLED-HOLE :RXN METHCOCLTH-RXN
+                :HIT #<SYNPCC7942_1372 instance frame in SYNELBASE[M] @ #x1001d6ae0d2>
+                :PROB 0.99247813
+                :RXN-NAME NIL
+                :RXN-EC "2.1.1.258"
+                :PWY-LIST NIL
+                :ALL-RXNS (#<METHCOCLTH-RXN instance frame in SYNELBASE[M] @ #x1001490bf42> #<HOMOCYSMETB12-RXN instance frame in SYNELBASE[M] @ #x10014a59de2> #<HOMOCYSMET-RXN instance frame in SYNELBASE[M] @ #x100149fc572>)
+                :REPLACED? NIL
+                :FUNCTIONS "5-methyltetrahydrofolate--homocysteine methyltransferase"
+                :DATE 3417893580)
+ #S(FILLED-HOLE :RXN RXN0-6427
+                :HIT #<SYNPCC7942_1377 instance frame in SYNELBASE[M] @ #x1001d6ae352>
+                :PROB 0.99999994
+                :RXN-NAME "guanosine 3'-diphosphate 5'-triphosphate 3'-diphosphatase"
+                :RXN-EC "3.1.7.2"
+                :PWY-LIST (#<PPGPPMET-PWY instance frame in SYNELBASE[M] @ #x100148e28d2>)
+                :ALL-RXNS (#<RXN0-6427 instance frame in SYNELBASE[M] @ #x100148eb7b2> #<GTPPYPHOSKIN-RXN instance frame in SYNELBASE[M] @ #x100148f0222> #<GDPPYPHOSKIN-RXN instance frame in SYNELBASE[M] @ #x100149118b2>
+                           #<PPGPPSYN-RXN instance frame in SYNELBASE[M] @ #x10014906872>)
+                :REPLACED? NIL
+                :FUNCTIONS "metal dependent phosphohydrolase"
+                :DATE 3620924494)
+ #S(FILLED-HOLE :RXN NADPYROPHOSPHAT-RXN
+                :HIT #<SYNPCC7942_1392 instance frame in SYNELBASE[M] @ #x1001d6aeb52>
+                :PROB 0.99247813
+                :RXN-NAME NIL
+                :RXN-EC "3.6.1.22"
+                :PWY-LIST (#<PYRIDNUCSAL-PWY instance frame in SYNELBASE[M] @ #x10014887f42>)
+                :ALL-RXNS (#<NADPYROPHOSPHAT-RXN instance frame in SYNELBASE[M] @ #x1001492cfd2> #<ALKAPHOSPHA-RXN instance frame in SYNELBASE[M] @ #x10014a61042> #<RXN-8748 instance frame in SYNELBASE[M] @ #x100148741d2>)
+                :REPLACED? NIL
+                :FUNCTIONS "alkaline phosphatase"
+                :DATE 3620924493)
+ #S(FILLED-HOLE :RXN RXN-8748
+                :HIT #<SYNPCC7942_1392 instance frame in SYNELBASE[M] @ #x1001d6aeb52>
+                :PROB NIL
+                :RXN-NAME NIL
+                :RXN-EC "3.1.3.1"
+                :PWY-LIST NIL
+                :ALL-RXNS (#<NADPYROPHOSPHAT-RXN instance frame in SYNELBASE[M] @ #x1001492cfd2> #<ALKAPHOSPHA-RXN instance frame in SYNELBASE[M] @ #x10014a61042> #<RXN-8748 instance frame in SYNELBASE[M] @ #x100148741d2>)
+                :REPLACED? NIL
+                :FUNCTIONS "alkaline phosphatase"
+                :DATE NIL)
+ #S(FILLED-HOLE :RXN ALKAPHOSPHA-RXN
+                :HIT #<SYNPCC7942_1392 instance frame in SYNELBASE[M] @ #x1001d6aeb52>
+                :PROB NIL
+                :RXN-NAME NIL
+                :RXN-EC "3.1.3.1"
+                :PWY-LIST NIL
+                :ALL-RXNS (#<NADPYROPHOSPHAT-RXN instance frame in SYNELBASE[M] @ #x1001492cfd2> #<ALKAPHOSPHA-RXN instance frame in SYNELBASE[M] @ #x10014a61042> #<RXN-8748 instance frame in SYNELBASE[M] @ #x100148741d2>)
+                :REPLACED? NIL
+                :FUNCTIONS "alkaline phosphatase"
+                :DATE 3418748550)
+ #S(FILLED-HOLE :RXN RXN0-742
+                :HIT #<SYNPCC7942_1428 instance frame in SYNELBASE[M] @ #x1001d6afd52>
+                :PROB 0.99774176
+                :RXN-NAME NIL
+                :RXN-EC "6.3.4.18"
+                :PWY-LIST (#<PWY-6123 instance frame in SYNELBASE[M] @ #x10014970052>)
+                :ALL-RXNS (#<RXN0-742 instance frame in SYNELBASE[M] @ #x1001490efd2>)
+                :REPLACED? NIL
+                :FUNCTIONS "phosphoribosylaminoimidazole carboxylase, ATPase subunit"
+                :DATE 3417893576)
+ #S(FILLED-HOLE :RXN SEDOBISALDOL-RXN
+                :HIT #<SYNPCC7942_1443 instance frame in SYNELBASE[M] @ #x1001d6b0552>
+                :PROB 0.9999941
+                :RXN-NAME NIL
+                :RXN-EC "4.1.2.-"
+                :PWY-LIST (#<CALVIN-PWY instance frame in SYNELBASE[M] @ #x100148b6cb2>)
+                :ALL-RXNS (#<SEDOBISALDOL-RXN instance frame in SYNELBASE[M] @ #x10014a6cbc2> #<RXN-8631 instance frame in SYNELBASE[M] @ #x10014a3e6c2> #<F16ALDOLASE-RXN instance frame in SYNELBASE[M] @ #x1001493e5b2>)
+                :REPLACED? NIL
+                :FUNCTIONS "ketose-bisphosphate aldolases Fructose-bisphosphate aldolase, class II, Calvin cycle subtype"
+                :DATE 3620924490)
+ #S(FILLED-HOLE :RXN ACP-S-ACETYLTRANSFER-RXN
+                :HIT #<SYNPCC7942_1455 instance frame in SYNELBASE[M] @ #x1001d6b0b52>
+                :PROB NIL
+                :RXN-NAME NIL
+                :RXN-EC "2.3.1.38/2.3.1.85/2.3.1.86"
+                :PWY-LIST (#<FASYN-INITIAL-PWY instance frame in SYNELBASE[M] @ #x100149d7102> #<PWY-5966 instance frame in SYNELBASE[M] @ #x1001486f402>)
+                :ALL-RXNS (#<ACP-S-ACETYLTRANSFER-RXN instance frame in SYNELBASE[M] @ #x10014942062> #<2.3.1.180-RXN instance frame in SYNELBASE[M] @ #x10014878432>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoacyl-(acyl-carrier-protein) synthase III"
+                :DATE NIL)
+ #S(FILLED-HOLE :RXN 2.3.1.180-RXN
+                :HIT #<SYNPCC7942_1455 instance frame in SYNELBASE[M] @ #x1001d6b0b52>
+                :PROB 0.9999995
+                :RXN-NAME NIL
+                :RXN-EC "2.3.1.180"
+                :PWY-LIST (#<PWY-4381 instance frame in SYNELBASE[M] @ #x10014a008f2>)
+                :ALL-RXNS (#<ACP-S-ACETYLTRANSFER-RXN instance frame in SYNELBASE[M] @ #x10014942062> #<2.3.1.180-RXN instance frame in SYNELBASE[M] @ #x10014878432>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-oxoacyl-(acyl-carrier-protein) synthase III"
+                :DATE 3417893553)
+ #S(FILLED-HOLE :RXN GLYCERATE-DEHYDROGENASE-RXN
+                :HIT #<SYNPCC7942_1501 instance frame in SYNELBASE[M] @ #x1001d6b2252>
+                :PROB 0.99408376
+                :RXN-NAME NIL
+                :RXN-EC "1.1.1.29"
+                :PWY-LIST (#<PWY-181 instance frame in SYNELBASE[M] @ #x10014a30d42>)
+                :ALL-RXNS (#<GLYCERATE-DEHYDROGENASE-RXN instance frame in SYNELBASE[M] @ #x10014a7ab12> #<ERYTHRON4PDEHYDROG-RXN instance frame in SYNELBASE[M] @ #x100149729f2>
+                           #<PGLYCDEHYDROG-RXN instance frame in SYNELBASE[M] @ #x1001498e352>)
+                :REPLACED? NIL
+                :FUNCTIONS "D-3-phosphoglycerate dehydrogenase"
+                :DATE 3620924494)
+ #S(FILLED-HOLE :RXN ERYTHRON4PDEHYDROG-RXN
+                :HIT #<SYNPCC7942_1501 instance frame in SYNELBASE[M] @ #x1001d6b2252>
+                :PROB 0.99979883
+                :RXN-NAME NIL
+                :RXN-EC "1.1.1.290"
+                :PWY-LIST (#<PYRIDOXSYN-PWY instance frame in SYNELBASE[M] @ #x100149b7de2>)
+                :ALL-RXNS (#<GLYCERATE-DEHYDROGENASE-RXN instance frame in SYNELBASE[M] @ #x10014a7ab12> #<ERYTHRON4PDEHYDROG-RXN instance frame in SYNELBASE[M] @ #x100149729f2>
+                           #<PGLYCDEHYDROG-RXN instance frame in SYNELBASE[M] @ #x1001498e352>)
+                :REPLACED? NIL
+                :FUNCTIONS "D-3-phosphoglycerate dehydrogenase"
+                :DATE 3417893578)
+ #S(FILLED-HOLE :RXN RXN-7970
+                :HIT #<SYNPCC7942_1505 instance frame in SYNELBASE[M] @ #x1001d6b2452>
+                :PROB 0.99774176
+                :RXN-NAME NIL
+                :RXN-EC "1.1.1.87/1.1.1.286"
+                :PWY-LIST NIL
+                :ALL-RXNS (#<RXN-14986 instance frame in SYNELBASE[M] @ #x1001487c6c2> #<RXN-13158 instance frame in SYNELBASE[M] @ #x1001495b562> #<RXN-7970 instance frame in SYNELBASE[M] @ #x100149ba512>
+                           #<3-ISOPROPYLMALDEHYDROG-RXN instance frame in SYNELBASE[M] @ #x10014873182>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-isopropylmalate dehydrogenase"
+                :DATE 3417893559)
+ #S(FILLED-HOLE :RXN R343-RXN
+                :HIT #<SYNPCC7942_1541 instance frame in SYNELBASE[M] @ #x1001d6b36d2>
+                :PROB 0.99990183
+                :RXN-NAME NIL
+                :RXN-EC "1.16.8.1"
+                :PWY-LIST (#<PWY-5509 instance frame in SYNELBASE[M] @ #x100149b7452> #<PWY-5508 instance frame in SYNELBASE[M] @ #x10014a69202>)
+                :ALL-RXNS (#<R343-RXN instance frame in SYNELBASE[M] @ #x10014981392>)
+                :REPLACED? NIL
+                :FUNCTIONS "flavodoxin"
+                :DATE 3620924489)
+ #S(FILLED-HOLE :RXN 2-DEHYDROPANTOATE-REDUCT-RXN
+                :HIT #<SYNPCC7942_1552 instance frame in SYNELBASE[M] @ #x1001d6b3c52>
+                :PROB 0.995559
+                :RXN-NAME NIL
+                :RXN-EC "1.1.1.169"
+                :PWY-LIST (#<PANTO-PWY instance frame in SYNELBASE[M] @ #x1001496c152>)
+                :ALL-RXNS (#<2-DEHYDROPANTOATE-REDUCT-RXN instance frame in SYNELBASE[M] @ #x1001487abc2> #<ACETOLACTREDUCTOISOM-RXN instance frame in SYNELBASE[M] @ #x1001488c142>
+                           #<ACETOOHBUTREDUCTOISOM-RXN instance frame in SYNELBASE[M] @ #x10014a7a5d2>)
+                :REPLACED? NIL
+                :FUNCTIONS "ketol-acid reductoisomerase"
+                :DATE 3620924494)
+ #S(FILLED-HOLE :RXN 2-AMINOADIPATE-AMINOTRANSFERASE-RXN
+                :HIT #<SYNPCC7942_1725 instance frame in SYNELBASE[M] @ #x1001d6b93d2>
+                :PROB 0.95064425
+                :RXN-NAME NIL
+                :RXN-EC "2.6.1.39"
+                :PWY-LIST NIL
+                :ALL-RXNS (#<2-AMINOADIPATE-AMINOTRANSFERASE-RXN instance frame in SYNELBASE[M] @ #x10014938792>)
+                :REPLACED? NIL
+                :FUNCTIONS "regulatory protein GntR, HTH"
+                :DATE 3417893561)
+ #S(FILLED-HOLE :RXN RXN0-2361
+                :HIT #<SYNPCC7942_1741 instance frame in SYNELBASE[M] @ #x1001d6b9bd2>
+                :PROB 0.99774176
+                :RXN-NAME NIL
+                :RXN-EC "6.3.2.45"
+                :PWY-LIST (#<PWY0-1261 instance frame in SYNELBASE[M] @ #x100149c7202>)
+                :ALL-RXNS (#<RXN0-2361 instance frame in SYNELBASE[M] @ #x100149fdfb2> #<UDP-NACMUR-ALA-LIG-RXN instance frame in SYNELBASE[M] @ #x10014975452>)
+                :REPLACED? NIL
+                :FUNCTIONS "UDP-N-acetylmuramate--alanine ligase"
+                :DATE 3620924490)
+ #S(FILLED-HOLE :RXN ERYTH4PDEHYDROG-RXN
+                :HIT #<SYNPCC7942_1742 instance frame in SYNELBASE[M] @ #x1001d6b9c52>
+                :PROB 0.99997646
+                :RXN-NAME NIL
+                :RXN-EC "1.2.1.72"
+                :PWY-LIST (#<PYRIDOXSYN-PWY instance frame in SYNELBASE[M] @ #x100149b7de2>)
+                :ALL-RXNS (#<ERYTH4PDEHYDROG-RXN instance frame in SYNELBASE[M] @ #x10014a7b622>)
+                :REPLACED? NIL
+                :FUNCTIONS "NADP-dependent glyceraldehyde-3-phosphate dehydrogenase monomer"
+                :DATE 3620924495)
+ #S(FILLED-HOLE :RXN RXN-9311
+                :HIT #<SYNPCC7942_1744 instance frame in SYNELBASE[M] @ #x1001d6b9d52>
+                :PROB 0.9996712
+                :RXN-NAME NIL
+                :RXN-EC "3.1.2.28"
+                :PWY-LIST (#<PWY-5837 instance frame in SYNELBASE[M] @ #x100149ceb52>)
+                :ALL-RXNS (#<RXN-9311 instance frame in SYNELBASE[M] @ #x100148a7802>)
+                :REPLACED? NIL
+                :FUNCTIONS "1,4-dihydroxy-2-naphthoyl-CoA hydrolase"
+                :DATE 3620924487)
+ #S(FILLED-HOLE :RXN RXN-14381
+                :HIT #<SYNPCC7942_1787 instance frame in SYNELBASE[M] @ #x1001d6bb2d2>
+                :PROB 0.944395
+                :RXN-NAME NIL
+                :RXN-EC NIL
+                :PWY-LIST (#<PWY-7250 instance frame in SYNELBASE[M] @ #x100149523b2>)
+                :ALL-RXNS (#<RXN-14381 instance frame in SYNELBASE[M] @ #x10014971492>)
+                :REPLACED? NIL
+                :FUNCTIONS "iron-sulfur cluster assembly protein"
+                :DATE 3620924497)
+ #S(FILLED-HOLE :RXN RXN-7737
+                :HIT #<SYNPCC7942_1794 instance frame in SYNELBASE[M] @ #x1001d6bb652>
+                :PROB 0.9981565
+                :RXN-NAME NIL
+                :RXN-EC "2.6.1.83"
+                :PWY-LIST (#<PWY-5097 instance frame in SYNELBASE[M] @ #x1001e3da522>)
+                :ALL-RXNS (#<RXN-7737 instance frame in SYNELBASE[M] @ #x100149d54e2> #<RXN-14685 instance frame in SYNELBASE[M] @ #x100149c7742>)
+                :REPLACED? NIL
+                :FUNCTIONS "transaminase"
+                :DATE 3620924492)
+ #S(FILLED-HOLE :RXN PANTOTHENATE-KIN-RXN
+                :HIT #<SYNPCC7942_1808 instance frame in SYNELBASE[M] @ #x1001d6bbd52>
+                :PROB 0.9991766
+                :RXN-NAME NIL
+                :RXN-EC "2.7.1.33"
+                :PWY-LIST (#<PANTO-PWY instance frame in SYNELBASE[M] @ #x1001496c152>)
+                :ALL-RXNS (#<PANTOTHENATE-KIN-RXN instance frame in SYNELBASE[M] @ #x1001486fd92>)
+                :REPLACED? NIL
+                :FUNCTIONS "Type III pantothenate kinase"
+                :DATE 3417893546)
+ #S(FILLED-HOLE :RXN 2.1.1.132-RXN
+                :HIT #<SYNPCC7942_1850 instance frame in SYNELBASE[M] @ #x1001d6bd252>
+                :PROB NIL
+                :RXN-NAME NIL
+                :RXN-EC "2.1.1.132"
+                :PWY-LIST NIL
+                :ALL-RXNS (#<2.1.1.132-RXN instance frame in SYNELBASE[M] @ #x100149c5a32> #<RXN-13824 instance frame in SYNELBASE[M] @ #x100149aecc2> #<RXN-13826 instance frame in SYNELBASE[M] @ #x10014964892>)
+                :REPLACED? NIL
+                :FUNCTIONS "precorrin-6B <em>C</em><small><sup>5,15</sup></small>-methyltransferase (decarboxylating)"
+                :DATE NIL)
+ #S(FILLED-HOLE :RXN R322-RXN
+                :HIT #<SYNPCC7942_1853 instance frame in SYNELBASE[M] @ #x1001d6bd3d2>
+                :PROB 0.9813077
+                :RXN-NAME NIL
+                :RXN-EC "2.1.1.152"
+                :PWY-LIST (#<PWY-7376 instance frame in SYNELBASE[M] @ #x10014a17c92>)
+                :ALL-RXNS (#<R322-RXN instance frame in SYNELBASE[M] @ #x10014853412> #<RXN-8760 instance frame in SYNELBASE[M] @ #x10014907c22> #<2.1.1.130-RXN instance frame in SYNELBASE[M] @ #x1001495c2b2>)
+                :REPLACED? NIL
+                :FUNCTIONS "precorrin-2 C20-methyltransferase"
+                :DATE 3620924490)
+ #S(FILLED-HOLE :RXN RXN-8769
+                :HIT #<SYNPCC7942_1855 instance frame in SYNELBASE[M] @ #x1001d6bd4d2>
+                :PROB 0.99989015
+                :RXN-NAME NIL
+                :RXN-EC "6.3.5.11"
+                :PWY-LIST NIL
+                :ALL-RXNS (#<RXN-8769 instance frame in SYNELBASE[M] @ #x10014916892> #<RXN-14256 instance frame in SYNELBASE[M] @ #x10014960c62> #<RXN-14257 instance frame in SYNELBASE[M] @ #x100148cf492>
+                           #<R341-RXN instance frame in SYNELBASE[M] @ #x100148789a2>)
+                :REPLACED? NIL
+                :FUNCTIONS "cobyrinic acid a,c-diamide synthase"
+                :DATE 3417893541)
+ #S(FILLED-HOLE :RXN RXN-9772
+                :HIT #<SYNPCC7942_1881 instance frame in SYNELBASE[M] @ #x1001d6be1d2>
+                :PROB NIL
+                :RXN-NAME "L-aspartate : fumarate oxidoreductase (deaminating)"
+                :RXN-EC "1.5.99.-"
+                :PWY-LIST NIL
+                :ALL-RXNS (#<RXN-9772 instance frame in SYNELBASE[M] @ #x1001492d6c2> #<L-ASPARTATE-OXID-RXN instance frame in SYNELBASE[M] @ #x10014900c62>)
+                :REPLACED? NIL
+                :FUNCTIONS "L-aspartate oxidase"
+                :DATE NIL)
+ #S(FILLED-HOLE :RXN L-ASPARTATE-OXID-RXN
+                :HIT #<SYNPCC7942_1881 instance frame in SYNELBASE[M] @ #x1001d6be1d2>
+                :PROB 0.9994419
+                :RXN-NAME NIL
+                :RXN-EC "1.4.3.16"
+                :PWY-LIST (#<PYRIDNUCSYN-PWY instance frame in SYNELBASE[M] @ #x100148f0f72>)
+                :ALL-RXNS (#<RXN-9772 instance frame in SYNELBASE[M] @ #x1001492d6c2> #<L-ASPARTATE-OXID-RXN instance frame in SYNELBASE[M] @ #x10014900c62>)
+                :REPLACED? NIL
+                :FUNCTIONS "L-aspartate oxidase"
+                :DATE 3417893568)
+ #S(FILLED-HOLE :RXN RXN-9238
+                :HIT #<SYNPCC7942_1910 instance frame in SYNELBASE[M] @ #x1001d6bf052>
+                :PROB 0.99997646
+                :RXN-NAME NIL
+                :RXN-EC "4.1.1.98"
+                :PWY-LIST (#<PWY-6978 instance frame in SYNELBASE[M] @ #x10014895352>)
+                :ALL-RXNS (#<RXN-9238 instance frame in SYNELBASE[M] @ #x10014a57982> #<3-OCTAPRENYL-4-OHBENZOATE-DECARBOX-RXN instance frame in SYNELBASE[M] @ #x10014937d12>)
+                :REPLACED? NIL
+                :FUNCTIONS "3-octaprenyl-4-hydroxybenzoate carboxy-lyase"
+                :DATE 3620924494)
+ #S(FILLED-HOLE :RXN RXN0-5227
+                :HIT #<SYNPCC7942_1963 instance frame in SYNELBASE[M] @ #x1001d6c0b52>
+                :PROB 0.9996712
+                :RXN-NAME NIL
+                :RXN-EC "3.4.17.13"
+                :PWY-LIST (#<PWY0-1261 instance frame in SYNELBASE[M] @ #x100149c7202>)
+                :ALL-RXNS (#<RXN0-5227 instance frame in SYNELBASE[M] @ #x100149d76d2>)
+                :REPLACED? NIL
+                :FUNCTIONS "conserved hypothetical protein"
+                :DATE 3620924490)
+ #S(FILLED-HOLE :RXN PPPGPPHYDRO-RXN
+                :HIT #<SYNPCC7942_1965 instance frame in SYNELBASE[M] @ #x1001d6c0c52>
+                :PROB 0.9998745
+                :RXN-NAME NIL
+                :RXN-EC "3.6.1.40"
+                :PWY-LIST (#<PPGPPMET-PWY instance frame in SYNELBASE[M] @ #x100148e28d2>)
+                :ALL-RXNS (#<PPPGPPHYDRO-RXN instance frame in SYNELBASE[M] @ #x10014862142> #<EXOPOLYPHOSPHATASE-RXN instance frame in SYNELBASE[M] @ #x100148c5592>)
+                :REPLACED? NIL
+                :FUNCTIONS "exopolyphosphatase"
+                :DATE 3417893574)
+ #S(FILLED-HOLE :RXN R83-RXN
+                :HIT #<SYNPCC7942_1994 instance frame in SYNELBASE[M] @ #x1001d6c1ad2>
+                :PROB 0.9996522
+                :RXN-NAME NIL
+                :RXN-EC "3.1.3.87"
+                :PWY-LIST (#<PWY-4361 instance frame in SYNELBASE[M] @ #x1001485d2e2> #<3.1.3.77-RXN instance frame in SYNELBASE[M] @ #x100148e4d32>)
+                :ALL-RXNS (#<3.1.3.77-RXN instance frame in SYNELBASE[M] @ #x100148e4d32> #<R82-RXN instance frame in SYNELBASE[M] @ #x10014863222> #<R83-RXN instance frame in SYNELBASE[M] @ #x100149e0402>)
+                :REPLACED? NIL
+                :FUNCTIONS "2,3-diketo-5-methylthio-1-phosphopentane phosphatase"
+                :DATE 3417893566)
+ #S(FILLED-HOLE :RXN R82-RXN
+                :HIT #<SYNPCC7942_1994 instance frame in SYNELBASE[M] @ #x1001d6c1ad2>
+                :PROB 0.99998486
+                :RXN-NAME NIL
+                :RXN-EC "5.3.2.5"
+                :PWY-LIST (#<PWY-4361 instance frame in SYNELBASE[M] @ #x1001485d2e2> #<3.1.3.77-RXN instance frame in SYNELBASE[M] @ #x100148e4d32>)
+                :ALL-RXNS (#<3.1.3.77-RXN instance frame in SYNELBASE[M] @ #x100148e4d32> #<R82-RXN instance frame in SYNELBASE[M] @ #x10014863222> #<R83-RXN instance frame in SYNELBASE[M] @ #x100149e0402>)
+                :REPLACED? NIL
+                :FUNCTIONS "2,3-diketo-5-methylthio-1-phosphopentane phosphatase"
+                :DATE 3417893567)
+ #S(FILLED-HOLE :RXN 2-OCTAPRENYL-6-METHOXYPHENOL-HYDROX-RXN
+                :HIT #<SYNPCC7942_2055 instance frame in SYNELBASE[M] @ #x1001d6c39d2>
+                :PROB 0.9999983
+                :RXN-NAME NIL
+                :RXN-EC "1.14.13.-"
+                :PWY-LIST NIL
+                :ALL-RXNS (#<2-OCTAPRENYL-6-METHOXYPHENOL-HYDROX-RXN instance frame in SYNELBASE[M] @ #x1001485b212>)
+                :REPLACED? NIL
+                :FUNCTIONS "2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase"
+                :DATE 3620924497)
+ #S(FILLED-HOLE :RXN RIBAZOLEPHOSPHAT-RXN
+                :HIT #<SYNPCC7942_2078 instance frame in SYNELBASE[M] @ #x1001d6c4552>
+                :PROB 0.9996712
+                :RXN-NAME NIL
+                :RXN-EC "3.1.3.73"
+                :PWY-LIST (#<PWY-5508 instance frame in SYNELBASE[M] @ #x10014a69202>)
+                :ALL-RXNS (#<RIBAZOLEPHOSPHAT-RXN instance frame in SYNELBASE[M] @ #x10014858122> #<RXN-8770 instance frame in SYNELBASE[M] @ #x100148a9332>
+                           #<BISPHOSPHOGLYCERATE-PHOSPHATASE-RXN instance frame in SYNELBASE[M] @ #x10014a28d62> #<RXN-15513 instance frame in SYNELBASE[M] @ #x10014a471e2> #<RXN-15509 instance frame in SYNELBASE[M] @ #x10014941ac2>
+                           #<RXN-15510 instance frame in SYNELBASE[M] @ #x10014a09202> #<RXN-15511 instance frame in SYNELBASE[M] @ #x100148e7612> #<RXN-15512 instance frame in SYNELBASE[M] @ #x10014922da2>
+                           #<3PGAREARR-RXN instance frame in SYNELBASE[M] @ #x10014952742>)
+                :REPLACED? NIL
+                :FUNCTIONS "phosphoglycerate mutase"
+                :DATE 3620924488)
+ #S(FILLED-HOLE :RXN RXN-8770
+                :HIT #<SYNPCC7942_2078 instance frame in SYNELBASE[M] @ #x1001d6c4552>
+                :PROB 0.9996712
+                :RXN-NAME NIL
+                :RXN-EC "3.1.3.73"
+                :PWY-LIST (#<PWY-5509 instance frame in SYNELBASE[M] @ #x100149b7452>)
+                :ALL-RXNS (#<RIBAZOLEPHOSPHAT-RXN instance frame in SYNELBASE[M] @ #x10014858122> #<RXN-8770 instance frame in SYNELBASE[M] @ #x100148a9332>
+                           #<BISPHOSPHOGLYCERATE-PHOSPHATASE-RXN instance frame in SYNELBASE[M] @ #x10014a28d62> #<RXN-15513 instance frame in SYNELBASE[M] @ #x10014a471e2> #<RXN-15509 instance frame in SYNELBASE[M] @ #x10014941ac2>
+                           #<RXN-15510 instance frame in SYNELBASE[M] @ #x10014a09202> #<RXN-15511 instance frame in SYNELBASE[M] @ #x100148e7612> #<RXN-15512 instance frame in SYNELBASE[M] @ #x10014922da2>
+                           #<3PGAREARR-RXN instance frame in SYNELBASE[M] @ #x10014952742>)
+                :REPLACED? NIL
+                :FUNCTIONS "phosphoglycerate mutase"
+                :DATE 3620924488)
+ #S(FILLED-HOLE :RXN GLUC1PURIDYLTRANS-RXN
+                :HIT #<SYNPCC7942_2101 instance frame in SYNELBASE[M] @ #x1001d6c50d2>
+                :PROB 0.9970278
+                :RXN-NAME NIL
+                :RXN-EC "2.7.7.9/2.7.7.64"
+                :PWY-LIST (#<PWY-7343 instance frame in SYNELBASE[M] @ #x10014928142>)
+                :ALL-RXNS (#<GLUC1PURIDYLTRANS-RXN instance frame in SYNELBASE[M] @ #x100148531a2> #<DTDPGLUCOSEPP-RXN instance frame in SYNELBASE[M] @ #x10014a2d172>)
+                :REPLACED? NIL
+                :FUNCTIONS "glucose-1-phosphate thymidylyltransferase"
+                :DATE 3417893597)
+ #S(FILLED-HOLE :RXN PHOSMANMUT-RXN
+                :HIT #<SYNPCC7942_2132 instance frame in SYNELBASE[M] @ #x1001d6c60d2>
+                :PROB 0.9976448
+                :RXN-NAME NIL
+                :RXN-EC "5.4.2.8"
+                :PWY-LIST (#<PWY-5659 instance frame in SYNELBASE[M] @ #x100149216c2>)
+                :ALL-RXNS (#<PHOSMANMUT-RXN instance frame in SYNELBASE[M] @ #x100148e9ef2> #<5.4.2.10-RXN instance frame in SYNELBASE[M] @ #x100148a6b42> #<RXN-16424 instance frame in SYNELBASE[M] @ #x1001499bc12>
+                           #<RXN0-7139 instance frame in SYNELBASE[M] @ #x100148ff7f2>)
+                :REPLACED? NIL
+                :FUNCTIONS "phosphoglucosamine mutase"
+                :DATE 3417893557)
+ #S(FILLED-HOLE :RXN RXN-14014
+                :HIT #<SYNPCC7942_2136 instance frame in SYNELBASE[M] @ #x1001d6c62d2>
+                :PROB 0.9996712
+                :RXN-NAME "4-hydroxy-tetrahydrodipicolinate reductase"
+                :RXN-EC "1.17.1.8"
+                :PWY-LIST (#<PWY-5097 instance frame in SYNELBASE[M] @ #x1001e3da522>)
+                :ALL-RXNS (#<RXN-14014 instance frame in SYNELBASE[M] @ #x10014a39652>)
+                :REPLACED? NIL
+                :FUNCTIONS "dihydrodipicolinate reductase"
+                :DATE 3620924492)
+ #S(FILLED-HOLE :RXN RXN0-1342
+                :HIT #<SYNPCC7942_2348 instance frame in SYNELBASE[M] @ #x1001d6ccf52>
+                :PROB 0.9999709
+                :RXN-NAME NIL
+                :RXN-EC "2.4.99.17"
+                :PWY-LIST (#<PWY-6700 instance frame in SYNELBASE[M] @ #x100149cde92>)
+                :ALL-RXNS (#<RXN0-1342 instance frame in SYNELBASE[M] @ #x10014970802>)
+                :REPLACED? NIL
+                :FUNCTIONS "S-adenosylmethionine"
+                :DATE 3620924496)
+ #S(FILLED-HOLE :RXN OHMETPYRKIN-RXN
+                :HIT #<SYNPCC7942_2379 instance frame in SYNELBASE[M] @ #x1001d6cdf52>
+                :PROB 1.0
+                :RXN-NAME NIL
+                :RXN-EC "2.7.1.49"
+                :PWY-LIST (#<PWY-6910 instance frame in SYNELBASE[M] @ #x100149e2a42>)
+                :ALL-RXNS (#<OHMETPYRKIN-RXN instance frame in SYNELBASE[M] @ #x100148c8f22> #<PYRIMSYN3-RXN instance frame in SYNELBASE[M] @ #x100148dedf2>)
+                :REPLACED? NIL
+                :FUNCTIONS "Phosphomethylpyrimidine kinase"
+                :DATE 3417893593)
+ #S(FILLED-HOLE :RXN RXN1F-72
+                :HIT #<SYNPCC7942_2425 instance frame in SYNELBASE[M] @ #x1001d6cf752>
+                :PROB 0.99775225
+                :RXN-NAME NIL
+                :RXN-EC "1.3.1.75"
+                :PWY-LIST (#<PWY-7159 instance frame in SYNELBASE[M] @ #x10014a58852> #<CHLOROPHYLL-SYN instance frame in SYNELBASE[M] @ #x100149f5e52>)
+                :ALL-RXNS (#<RXN1F-72 instance frame in SYNELBASE[M] @ #x10014920e52>)
+                :REPLACED? NIL
+                :FUNCTIONS "chaperon-like protein for quinone binding in photosystem II"
+                :DATE 3620924490)
+ #S(FILLED-HOLE :RXN RXN-14389
+                :HIT #<SYNPCC7942_2468 instance frame in SYNELBASE[M] @ #x1001d6d0dd2>
+                :PROB 0.99990994
+                :RXN-NAME NIL
+                :RXN-EC NIL
+                :PWY-LIST (#<PWY-7250 instance frame in SYNELBASE[M] @ #x100149523b2>)
+                :ALL-RXNS (#<RXN-14389 instance frame in SYNELBASE[M] @ #x100148caf32> #<RXN-14390 instance frame in SYNELBASE[M] @ #x10014991d42> #<RXN-14391 instance frame in SYNELBASE[M] @ #x100148702a2>)
+                :REPLACED? NIL
+                :FUNCTIONS "Heat shock protein Hsp70-2"
+                :DATE 3620924497)
+ #S(FILLED-HOLE :RXN RXN-14390
+                :HIT #<SYNPCC7942_2468 instance frame in SYNELBASE[M] @ #x1001d6d0dd2>
+                :PROB 0.99990994
+                :RXN-NAME NIL
+                :RXN-EC NIL
+                :PWY-LIST (#<PWY-7250 instance frame in SYNELBASE[M] @ #x100149523b2>)
+                :ALL-RXNS (#<RXN-14389 instance frame in SYNELBASE[M] @ #x100148caf32> #<RXN-14390 instance frame in SYNELBASE[M] @ #x10014991d42> #<RXN-14391 instance frame in SYNELBASE[M] @ #x100148702a2>)
+                :REPLACED? NIL
+                :FUNCTIONS "Heat shock protein Hsp70-2"
+                :DATE 3620924497)
+ #S(FILLED-HOLE :RXN RXN-14391
+                :HIT #<SYNPCC7942_2468 instance frame in SYNELBASE[M] @ #x1001d6d0dd2>
+                :PROB 0.99990994
+                :RXN-NAME NIL
+                :RXN-EC "3.6.4.-"
+                :PWY-LIST (#<PWY-7250 instance frame in SYNELBASE[M] @ #x100149523b2>)
+                :ALL-RXNS (#<RXN-14389 instance frame in SYNELBASE[M] @ #x100148caf32> #<RXN-14390 instance frame in SYNELBASE[M] @ #x10014991d42> #<RXN-14391 instance frame in SYNELBASE[M] @ #x100148702a2>)
+                :REPLACED? NIL
+                :FUNCTIONS "Heat shock protein Hsp70-2"
+                :DATE 3620924497)
+ #S(FILLED-HOLE :RXN 1.8.4.8-RXN
+                :HIT #<SYNPCC7942_2506 instance frame in SYNELBASE[M] @ #x1001d6d20d2>
+                :PROB NIL
+                :RXN-NAME NIL
+                :RXN-EC "1.8.4.8"
+                :PWY-LIST (#<SO4ASSIM-PWY instance frame in SYNELBASE[M] @ #x10014945482>)
+                :ALL-RXNS (#<1.8.4.8-RXN instance frame in SYNELBASE[M] @ #x10014966f02>)
+                :REPLACED? NIL
+                :FUNCTIONS "phosphoadenosine phosphosulfate reductase"
+                :DATE 3419106023)
+ #S(FILLED-HOLE :RXN RXN-14378
+                :HIT #<SYNPCC7942_2518 instance frame in SYNELBASE[M] @ #x1001d6d2752>
+                :PROB 0.9999909
+                :RXN-NAME NIL
+                :RXN-EC "2.4.1.242"
+                :PWY-LIST NIL
+                :ALL-RXNS (#<RXN-14378 instance frame in SYNELBASE[M] @ #x100148a6212> #<GLYCOGENSYN-RXN instance frame in SYNELBASE[M] @ #x100148e59c2>)
+                :REPLACED? NIL
+                :FUNCTIONS "Glycogen/starch synthases, ADP-glucose type"
+                :DATE 3620924496)
+ #S(FILLED-HOLE :RXN SIROHEME-FERROCHELAT-RXN
+                :HIT #<SYNPCC7942_2610 instance frame in SYNELBASE[M] @ #x1001d6d59d2>
+                :PROB 0.9994562
+                :RXN-NAME NIL
+                :RXN-EC "4.99.1.4"
+                :PWY-LIST (#<PWY-5194 instance frame in SYNELBASE[M] @ #x100148b1252>)
+                :ALL-RXNS (#<DIMETHUROPORDEHYDROG-RXN instance frame in SYNELBASE[M] @ #x10014a675b2> #<SIROHEME-FERROCHELAT-RXN instance frame in SYNELBASE[M] @ #x1001498e712>
+                           #<RXN-8675 instance frame in SYNELBASE[M] @ #x10014a427d2> #<UROPORIIIMETHYLTRANSA-RXN instance frame in SYNELBASE[M] @ #x10014935c12>)
+                :REPLACED? NIL
+                :FUNCTIONS "uroporphyrin-III C-methyltransferase"
+                :DATE 3417893582)
+ #S(FILLED-HOLE :RXN DIMETHUROPORDEHYDROG-RXN
+                :HIT #<SYNPCC7942_2610 instance frame in SYNELBASE[M] @ #x1001d6d59d2>
+                :PROB 0.9999764
+                :RXN-NAME NIL
+                :RXN-EC "1.3.1.76"
+                :PWY-LIST (#<PWY-5194 instance frame in SYNELBASE[M] @ #x100148b1252>)
+                :ALL-RXNS (#<DIMETHUROPORDEHYDROG-RXN instance frame in SYNELBASE[M] @ #x10014a675b2> #<SIROHEME-FERROCHELAT-RXN instance frame in SYNELBASE[M] @ #x1001498e712>
+                           #<RXN-8675 instance frame in SYNELBASE[M] @ #x10014a427d2> #<UROPORIIIMETHYLTRANSA-RXN instance frame in SYNELBASE[M] @ #x10014935c12>)
+                :REPLACED? NIL
+                :FUNCTIONS "uroporphyrin-III C-methyltransferase"
+                :DATE 3417893583)
+ #S(FILLED-HOLE :RXN RXN-15129
+                :HIT #<SYNPCC7942_B2664 instance frame in SYNELBASE[M] @ #x1001d6d98b2>
+                :PROB 0.9996428
+                :RXN-NAME NIL
+                :RXN-EC NIL
+                :PWY-LIST (#<LCYSDEG-PWY instance frame in SYNELBASE[M] @ #x100149f87f2> #<LCYSDESULF-RXN instance frame in SYNELBASE[M] @ #x100148e2d22>)
+                :ALL-RXNS (#<RXN-15129 instance frame in SYNELBASE[M] @ #x10014934f22> #<CYSTATHIONINE-BETA-SYNTHASE-RXN instance frame in SYNELBASE[M] @ #x10014917612> #<ACSERLY-RXN instance frame in SYNELBASE[M] @ #x100148bbd52>)
+                :REPLACED? NIL
+                :FUNCTIONS "cysteine synthase A"
+                :DATE 3620924492)) 
