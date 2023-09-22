@@ -1,0 +1,114 @@
+# Copyright SRI International 2007-2014
+#
+# Authors:
+#    Ron Caspi
+#    Alex Shearer
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Synechococcus elongatus PCC 7942
+# Database: NIL
+# Version: 22.5
+# File Name: species.dat
+# Date and time generated: September 11, 2018, 12:44:54
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    BIOMASS-TEMPLATES
+#    CCO-INSTANCES
+#    CITATIONS
+#    COMMENT
+#    CONTACT-EMAIL
+#    CREDITS
+#    DATA-SOURCE
+#    DBLINKS
+#    DOCUMENTATION
+#    GENETIC-CODE
+#    GENOME
+#    GENOME-UPDATE-DATE
+#    HIDDEN-NAMES
+#    HIDE-SLOT?
+#    INFERENCE-STATS
+#    INSTANCE-NAME-TEMPLATE
+#    MEMBER-SORT-FN
+#    MITOCHONDRIAL-GENETIC-CODE
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    PGDB-AUTHORS
+#    PGDB-COPYRIGHT
+#    PGDB-FOOTER-CITATION
+#    PGDB-HOME-PAGE
+#    PGDB-LAST-CONSISTENCY-CHECK
+#    PGDB-NAME
+#    PGDB-TIER
+#    PGDB-TYPE
+#    PGDB-UNIQUE-ID
+#    RANK
+#    SEQUENCE-SOURCE
+#    STRAIN-NAME
+#    SUBSPECIES-NAME
+#    SYNONYMS
+#
+UNIQUE-ID - SYNEL
+TYPES - TAX-1140
+COMMON-NAME - Synechococcus elongatus
+CCO-INSTANCES - CCI-CYTOSKELETON-GN
+CCO-INSTANCES - CCI-RIBOSOME-GN
+CCO-INSTANCES - CCI-PILUS-GN
+CCO-INSTANCES - CCI-FLAGELLUM-GN
+CCO-INSTANCES - CCI-BAC-NUCLEOID-GN
+CCO-INSTANCES - CCI-THY-CYA-GN
+CCO-INSTANCES - CCI-THY-LUM-CYA-GN
+CCO-INSTANCES - CCI-THY-MEM-CYA-GN
+CCO-INSTANCES - CCI-CW-BAC-NEG-GN
+CCO-INSTANCES - CCI-OUTER-MEM-GN
+CCO-INSTANCES - CCI-PM-BAC-NEG-GN
+CCO-INSTANCES - CCI-CYTOSOL-GN
+CCO-INSTANCES - CCI-EXTRACELLULAR-GN
+CCO-INSTANCES - CCI-PERI-BAC-GN
+COMMENT - |FRAME: TAX-1140| is a model freshwater cyanobacterium. It is an obligate photoautotroph, with a genome of approximately 2.7 Mb, and two endogenous plasmids, pANL and pANS.
+/
+/The |FRAME: TAX-1140| genome contains 2719 genes, which we have assigned computationally to 1964 transcription units. These genes encode 2674 polypeptides.
+/
+/Much of the research conducted with |FRAME: TAX-1140| has focused on photosynthesis, circadian clock systems, and nitrogen metabolism. We have refined this PGDB by manual curation of data from over 600 research papers, integrating knowledge contributed by many researchers from different fields. Information curated includes metabolic enzymes and pathways as well as several signal-transduction pathways.
+DBLINKS - (NCBI-TAXONOMY-DB "1140" NIL |pecocyc| 3688083717 NIL NIL)
+DBLINKS - (GOLD "0060677" NIL |paley| 3620197490 NIL NIL)
+GENETIC-CODE - 11
+GENOME - CHROMOSOME
+GENOME - PLASMID
+INFERENCE-STATS - (GO |kothari| 3742844336 (("distinct" . 1433) ("genes >1 exp GO term" . 16) (">1 exp GO term" . 17) (">1 GO term" . 1895) ("protein/RNAs" . 2929)))
+INFERENCE-STATS - (GO |kothari| 3742844336 (("GO term annotations" . 12652)))
+INFERENCE-STATS - (TIP |caspi| 3621083952 (("multisubstrate transporters" . 0) ("low-probability transporters" . 22) ("high-probability transporters" . 9)))
+INFERENCE-STATS - (TIP |caspi| 3621083952 (("reactions imported during inference" . 1) ("reactions created during inference" . 3)))
+INFERENCE-STATS - (TIP |caspi| 3621083950 (("PTS complexes created" . 0)))
+INFERENCE-STATS - (TIP |caspi| 3621083950 (("ATP complexes created" . 0)))
+MITOCHONDRIAL-GENETIC-CODE - 0
+PGDB-AUTHORS - caspi
+PGDB-AUTHORS - shearer
+PGDB-AUTHORS - pkarp
+PGDB-COPYRIGHT - Copyright SRI International 2007-2014
+PGDB-LAST-CONSISTENCY-CHECK - 3688318398
+PGDB-TIER - 2
+PGDB-UNIQUE-ID - 490
+RANK - |strain|
+STRAIN-NAME - PCC 7942
+SYNONYMS - Anacystis nidulans R2-SPc
+SYNONYMS - Syncchococcus PCC7942
+SYNONYMS - Synechococcus 7942
+SYNONYMS - Synechococcus PCC 7942
+SYNONYMS - Synechococcus PCC7942
+SYNONYMS - Synechococcus leopoliensis UTEX 2434
+SYNONYMS - Synechococcus leopoliensis strain PCC 7942
+SYNONYMS - Synechococcus sp. (PCC 7942)
+SYNONYMS - Synechococcus sp. (strain PCC 7942)
+SYNONYMS - Synechococcus sp. IAM M-200
+SYNONYMS - Synechococcus sp. PCC 7942
+SYNONYMS - Synechococcus sp. PCC7942
+SYNONYMS - Synechocystis sp. PCC 7942
+SYNONYMS - Synechococcus elongatus PCC 7942
+SYNONYMS - Anacystis nidulans R2
+NCBI-TAXONOMY-ID - 0060677
