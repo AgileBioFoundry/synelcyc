@@ -1,0 +1,347 @@
+# Copyright SRI International 2007-2014
+#
+# Authors:
+#    Ron Caspi
+#    Alex Shearer
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Synechococcus elongatus PCC 7942
+# Database: NIL
+# Version: 22.5
+# File Name: regulons.dat
+# Date and time generated: September 11, 2018, 12:45:02
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    ABBREV-NAME
+#    ACCESSION-1
+#    AROMATIC-RINGS
+#    ATOM-CHARGES
+#    ATOM-ISOTOPES
+#    CATALYZES
+#    CHARGE
+#    CHEMICAL-FORMULA
+#    CITATIONS
+#    CODING-SEGMENTS
+#    COFACTORS-OF
+#    COMMENT
+#    COMPONENT-COEFFICIENTS
+#    COMPONENT-OF
+#    COMPONENTS
+#    CONSENSUS-SEQUENCE
+#    COPY-NUMBER
+#    CREDITS
+#    DATA-SOURCE
+#    DBLINKS
+#    DNA-FOOTPRINT-SIZE
+#    DOCUMENTATION
+#    ENZYME-NOT-USED-IN
+#    EXPRESSION-MECHANISM
+#    FAST-EQUILIBRATING-INSTANCES?
+#    FEATURES
+#    FUNCTIONAL-ASSIGNMENT-COMMENT
+#    FUNCTIONAL-ASSIGNMENT-STATUS
+#    GENE
+#    GO-TERMS
+#    GROUP-COORDS-2D
+#    HAS-NO-STRUCTURE?
+#    HIDE-SLOT?
+#    IN-MIXTURE
+#    INCHI
+#    INCHI-KEY
+#    INSTANCE-NAME-TEMPLATE
+#    INTERNALS-OF-GROUP
+#    ISOZYME-SEQUENCE-SIMILARITY
+#    LOCATIONS
+#    MEMBER-SORT-FN
+#    MODIFIED-FORM
+#    MOLECULAR-WEIGHT
+#    MOLECULAR-WEIGHT-EXP
+#    MOLECULAR-WEIGHT-KD
+#    MOLECULAR-WEIGHT-SEQ
+#    MONOISOTOPIC-MW
+#    N+1-NAME
+#    N-1-NAME
+#    N-NAME
+#    NEIDHARDT-SPOT-NUMBER
+#    NON-STANDARD-INCHI
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    PI
+#    PKA1
+#    PKA2
+#    PKA3
+#    PROMOTER-BOX-NAME-1
+#    PROMOTER-BOX-NAME-2
+#    PROSTHETIC-GROUPS-OF
+#    RADICAL-ATOMS
+#    RECOGNIZED-PROMOTERS
+#    REGULATED-BY
+#    REGULATES
+#    SMILES
+#    SPECIES
+#    SPLICE-FORM-INTRONS
+#    STRUCTURE-BONDS
+#    STRUCTURE-GROUPS
+#    STRUCTURE-LINKS
+#    SUPERATOMS
+#    SYMMETRY
+#    SYNONYMS
+#    SYSTEMATIC-NAME
+#    TAUTOMERS
+#    UNMODIFIED-FORM
+#
+UNIQUE-ID - CPLX490-3548
+TYPES - Protein-Complexes
+COMMON-NAME - SmtB transcriptional repressor
+COMMENT - The <i>smt</i> locus of |FRAME:TAX-1140| contains a metal-regulated gene
+/(|FRAME: SYNPCC7942_1290|), which encodes a class II metallothionein (MT), and a divergently
+/transcribed gene, |FRAME: SYNPCC7942_1291|, which encodes a repressor of smtA transcription.
+/SmtB is required for the formation of a Zn-responsive complex with the smt operator-promoter,
+/and the SmtB-DNA interaction exerts metal-ion inducible negative control |CITS: [8451191]|.
+/
+/The |FRAME: SYNPCC7942_1291| gene has been cloned into a high expression vector and the protein
+/purified to near homogeneity |CITS: [9398263]|. The protein is predominantly dimeric, and
+/binds two |FRAME:ZN+2| ions per subunit with an overall Kd of 3.49 &mu;M.
+COMPONENTS - SYNPCC7942_1291-MONOMER
+CREDITS - SRI
+REGULATES - REG490-30
+SPECIES - SYNEL
+SYMMETRY - :INVERTED-REPEAT
+SYNONYMS - SmtB
+//
+UNIQUE-ID - CPLX490-3535
+TYPES - Protein-Complexes
+COMMON-NAME - circadian period extender Pex
+COMMENT - Three proteins, encoded by |FRAME: SYNPCC7942_0644| (circadian input kinase),
+/|FRAME: SYNPCC7942_0624| (light-dependent period) and |FRAME: SYNPCC7942_0677|
+/(period extender), affect the ability of |FRAME: TAX-1140| cells to respond to external stimuli.
+/Inactivation of any of these genes results in a shortened circadian period
+/|CITS: [17027373]|.
+/It is believed that these three proteins form an input pathway that feeds environmental signals to the
+/cyanobacterial oscilator, which is formed by the |FRAME: SYNPCC7942_1218|/
+/|FRAME: SYNPCC7942_1217|/|FRAME: SYNPCC7942_1216| encoded proteins |CITS: [17804240]|.
+/
+/A pex mutant is unable to delay its internal oscillation when grown in a 12-h light/12-h dark
+/|CITS: [16864644]|.
+/The Pex protein structure includes a winged-helix domain, which is common in DNA-binding proteins,
+/and Pex dimers preferentially bind to the promoter region of the |FRAME: SYNPCC7942_1218| gene
+/|CITS: [17704219]|.
+/This binding is thought to repress expression from the kaiA promoter because inactivation of pex results
+/in kaiA levels that are higher than those in wild type |CITS: [9555901]|.
+COMPONENTS - SYNPCC7942_0677-MONOMER
+CREDITS - SRI
+REGULATES - REG490-28
+SPECIES - SYNEL
+SYMMETRY - :INVERTED-REPEAT
+//
+UNIQUE-ID - SYNPCC7942_2305-MONOMER
+TYPES - Polypeptides
+COMMON-NAME - NblR response regulator
+CITATIONS - 9724820
+COMMENT - The |FRAME: SYNPCC7942_2305| gene encoded a response regulator, NblR, that complements a
+/cyanobacterial mutant that is unable to degrade its phycobilisome in response to nutrient deprivation.
+/NblR is known to induce expression of the |FRAME: SYNPCC7942_2127| gene as well as some
+/additional genes  |CITS: [16238617]|.
+/
+/NblR is not involved in acclimation responses that occur only during a specific nutrient limitation.
+/Instead it controls at least some of the general acclimation responses that occur during any
+/of a number of different stress conditions.
+/Thus NblR integrates different environmental signals that link the metabolism of the cell to light
+/harvesting capabilities and the activities of the photosynthetic apparatus |CITS: [9724820]|.
+/
+/|FRAME: SYNPCC7942_2305-MONOMER| and |FRAME: SYNPCC7942_0924-MONOMER|
+/were thought to be a two-component signal transduction pathway |CITS: [16238617]|.
+/However, recently it was shown that the activation of NblR is independent of phosphorylation
+/by a cognate histidine kinase.  A yeast two-hybrid system revealed that the protein
+/interacts with the prducts of the |FRAME: SYNPCC7942_1235| and |FRAME: SYNPCC7942_0299|
+/genes, suggesting a potentially novel mechanism for its activation |CITS: [18391440]|.
+CREDITS - SRI
+DBLINKS - (UNIPROT "O68523" NIL |kr| 3420407738 NIL NIL)
+GENE - SYNPCC7942_2305
+GO-TERMS - GO:0006355
+GO-TERMS - GO:0006351
+GO-TERMS - GO:0005622
+GO-TERMS - GO:0003677
+GO-TERMS - GO:0000160
+MOLECULAR-WEIGHT-KD - 26.14    
+MOLECULAR-WEIGHT-SEQ - 26.14    
+REGULATES - REG490-42
+SYMMETRY - :INVERTED-REPEAT
+SYNONYMS - NblR
+//
+UNIQUE-ID - SYNPCC7942_2174-MONOMER
+TYPES - Polypeptides
+COMMON-NAME - IdiB
+COMMENT - IdiB (Iron deficiency-induced protein B) is a positively acting transcription factor of the idiAB
+/regulon |CITS: [18424627]|. In addition, it was shown to regulate the |FRAME: SYNPCC7942_1462|-
+/|FRAME: SYNPCC7942_1461| regulon, |FRAME: SYNPCC7942_1463|, |FRAME: SYNPCC7942_1607|,
+/|FRAME: SYNPCC7942_2421|, |FRAME: SYNPCC7942_2079|, |FRAME: SYNPCC7942_2078|
+/and |FRAME: SYNPCC7942_0650| |CITS: [18424627]|.
+/
+/A DNA microarray analyses performed with cells grown in the presence or absence of iron found that
+/the <i>idiAB</i> region  was one of six regions of the chromosome that contain several Fe-regulated
+/genes |CITS: [18424627]|. This region includes the |FRAME: SYNPCC7942_2175| gene, encoding a
+/protein that modifies and protects photosystem II against selected stresses,
+/|FRAME: SYNPCC7942_2174|, encoding a positively acting transcription factor of the idiAB regulon, 
+/|FRAME: SYNPCC7942_2173|, encoding a protein that is believed to participate in photosynthetic cyclic
+/electron transport, and |FRAME: SYNPCC7942_2172|, a gene with no known function |CITS: [18424627]|.
+CREDITS - SRI
+DBLINKS - (UNIPROT "Q31L65" NIL |kr| 3420407738 NIL NIL)
+GENE - SYNPCC7942_2174
+GO-TERMS - GO:0006355
+GO-TERMS - GO:0006351
+GO-TERMS - GO:0003677
+MOLECULAR-WEIGHT-KD - 23.31    
+MOLECULAR-WEIGHT-SEQ - 23.31    
+REGULATES - REG490-24
+REGULATES - REG490-23
+REGULATES - REG490-22
+REGULATES - REG490-21
+REGULATES - REG490-20
+REGULATES - REG490-19
+REGULATES - REG490-18
+SYMMETRY - :INVERTED-REPEAT
+SYNONYMS - IdiB transcriptional activator
+//
+UNIQUE-ID - SYNPCC7942_1310-MONOMER
+TYPES - Polypeptides
+COMMON-NAME - CmpR transcriptional regulator
+CITATIONS - 18312274:EV-EXP-IDA:3422213204:caspi
+COMMENT - Transcription of the cmpABCD operon, encoding an |FRAME: CPLX490-3492|, is induced by
+/low-|FRAME: CARBON-DIOXIDE|. The controlled induction of the cmp genes resulted in selective
+/expression of high-affinity |FRAME: HCO3| transport activity. 
+/The |FRAME: HCO3| transporter encoded by cmpABCD has the highest affinity among the
+/|FRAME: HCO3| transporters present in the cyanobacterium |CITS: [10557362]|.
+/The cmp operon activation is dependent on |FRAME: SYNPCC7942_1310-MONOMER|, a LysR family
+/transcription factor of CbbR subfamily.
+/CmpR was shown to bind to the regulatory region of the operon. It has been suggested that
+/|FRAME: CPD-67|, which is produced by oxygenation of |FRAME: D-RIBULOSE-15-P2| by
+/|FRAME: CPLX490-3496| (Rubisco) under CO2-limited conditions,
+/acts as the co-inducer in the activation of the cmp operon by CmpR |CITS: [18312274]|.
+CREDITS - SRI
+DBLINKS - (UNIPROT "Q9F1R2" NIL |kr| 3420407735 NIL NIL)
+GENE - SYNPCC7942_1310
+GO-TERMS - GO:0006355
+GO-TERMS - GO:0006351
+GO-TERMS - GO:0005737
+GO-TERMS - GO:0003700
+GO-TERMS - GO:0003677
+LOCATIONS - CCI-CYTOSOL-GN
+MOLECULAR-WEIGHT-KD - 35.776    
+MOLECULAR-WEIGHT-SEQ - 35.776    
+REGULATES - REG490-41
+SYNONYMS - CmpR
+//
+UNIQUE-ID - SYNPCC7942_0987-MONOMER
+TYPES - Polypeptides
+COMMON-NAME - Fur
+DBLINKS - (UNIPROT "Q55244" NIL |kr| 3420407735 NIL NIL)
+GENE - SYNPCC7942_0987
+GO-TERMS - GO:0046872
+GO-TERMS - GO:0006355
+GO-TERMS - GO:0006351
+GO-TERMS - GO:0005737
+GO-TERMS - GO:0003700
+GO-TERMS - GO:0003677
+LOCATIONS - CCI-CYTOSOL-GN
+MOLECULAR-WEIGHT-KD - 16.845    
+MOLECULAR-WEIGHT-SEQ - 16.845    
+REGULATES - REG490-25
+//
+UNIQUE-ID - NTCA
+TYPES - Polypeptides
+COMMON-NAME - NtcA global nitrogen regulator
+COMMENT - The |FRAME: SYNPCC7942_0127| gene is required for full expression of proteins subject to ammonium
+/repression in the cyanobacterial genus Synechococcus.
+/Sequence analysis revealed that NtcA belongs to a family of bacterial transcriptional activators that,
+/among others, includes |FRAME: EG10164| and |FRAME: EG10325| from Escherichia coli
+/|CITS: [1630321]|.
+/
+/In the absence of ammonium NtcA promotes expression of alternative nitrogen-source assimilation genes,
+/such as those in the nir (nitrate assimilation) and urt (urea transport) operons, and of ammonium
+/assimilation genes like amt and glnA, but can also act as a repressor of some genes.
+/The NtcA binding site in DNA has the sequence signature GTAN<sub>8</sub>TAC of which the
+/GTN<sub>10</sub>AC subset can be considered essential for binding.
+/In the NtcA-activated promoters, the NtcA-binding site is frequently centered at about -41.5 nucleotides
+/with respect to the transcription start site, and these promoters also carry a -10 box in the form
+/TAN<sub>3</sub>T. This promoter structure is similar to that of the Class II promoters activated by
+/CAP, but NtcA-activated promoters in which an NtcA-binding site is found further upstream from the -41.5
+/position have been identified.
+/
+/NtcA could bind at more than one site in the regulated promoter to effect regulation of gene expression.
+/This is the case, for instance, of the nir operon promoter of |FRAME: TAX-1140|, in which an NtcA-binding
+/site centered at -109.5 is found in addition to the one centered at -40.5.
+/
+/NtcA-repressor sites are located in positions overlapping the -35 or -10 promoter boxes or the
+/transcription start site |CITS: [15374662]|.
+CREDITS - SRI
+DBLINKS - (UNIPROT "P29283" NIL |kr| 3420407732 NIL NIL)
+GENE - SYNPCC7942_0127
+GO-TERMS - GO:0005515
+GO-TERMS - GO:0006355
+GO-TERMS - GO:0006351
+GO-TERMS - GO:0005622
+GO-TERMS - GO:0003700
+GO-TERMS - GO:0003677
+MOLECULAR-WEIGHT-KD - 24.833    
+MOLECULAR-WEIGHT-SEQ - 24.833    
+REGULATES - REG490-125
+REGULATES - REG490-121
+REGULATES - REG490-120
+REGULATES - REG490-119
+REGULATES - REG490-118
+REGULATES - REG490-117
+REGULATES - REG490-116
+REGULATES - REG490-115
+REGULATES - REG490-114
+REGULATES - REG490-113
+REGULATES - REG490-112
+REGULATES - REG490-111
+REGULATES - REG490-110
+REGULATES - REG490-109
+REGULATES - REG490-108
+REGULATES - REG490-107
+REGULATES - REG490-106
+REGULATES - REG490-44
+REGULATES - REG490-43
+REGULATES - REG490-40
+REGULATES - REG490-39
+REGULATES - REG490-38
+REGULATES - REG490-37
+REGULATES - REG490-31
+REGULATES - REG490-12
+SYMMETRY - :INVERTED-REPEAT
+SYNONYMS - NtcA
+//
+UNIQUE-ID - MONOMER490-4
+TYPES - Modified-Proteins
+TYPES - Polypeptides
+COMMON-NAME - KaiC-P<sup>ser</sup>-P<sup>thr</sup>
+COMPONENT-OF - CPLX490-3532
+CREDITS - SRI
+GENE - SYNPCC7942_1216
+REGULATES - REG490-45
+SPECIES - SYNEL
+SYNONYMS - KaiC
+SYNONYMS - phosphorylated KaiC
+UNMODIFIED-FORM - SYNPCC7942_1216-MONOMER
+//
+UNIQUE-ID - MONOMER490-16
+TYPES - Modified-Proteins
+TYPES - Polypeptides
+COMMON-NAME - SphR-P<sup>asp</sup>
+CREDITS - SRI
+GENE - SYNPCC7942_1012
+REGULATES - REG490-124
+REGULATES - REG490-123
+REGULATES - REG490-122
+SPECIES - SYNEL
+SYNONYMS - SphR
+UNMODIFIED-FORM - SYNPCC7942_1012-MONOMER
+//

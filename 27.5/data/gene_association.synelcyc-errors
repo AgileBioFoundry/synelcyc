@@ -1,9 +1,0 @@
-#field 7 DB:Reference errors: 0 errors
-
-#field 8 Evidence Code errors: 2 errors
-SynelCyc	CPLX490-3585	CupB complex		GO:0042651	PMID:18467341	ERROR		C	CupB complex	CupB complex	protein	taxon:1140		
-SynelCyc	SYNPCC7942_1462-MONOMER	IrpA		GO:0005886	PMID:3139627	ERROR		C	iron-regulated protein A	irpA|SYNPCC7942_RS07480	protein	taxon:1140		
-#field 9 With/From errors: 1 errors
-SynelCyc	EG50003-MONOMER	AcpM		GO:0005829	PMID:19054114	IEA	ERROR:reqd-but-missing	C	apo-[acyl carrier protein]	apo-[acyl carrier protein]|AcpM|apoprotein [acyl carrier protein]|AcpP|acyl carrier protein|apo-ACP|ACP	protein	taxon:1140	20140602	SynelCyc
-#field 15 no date/curator errors: 0 errors
-
